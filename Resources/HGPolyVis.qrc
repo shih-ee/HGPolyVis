@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/icon.png</file>
+    <file>icons/noun_1291736_cc.png</file>
+    <file>icons/design.png</file>
+    <file>icons/merge2-512.png</file>
+    <file>icons/noun_45503_cc.png</file>
+    <file>icons/noun_177528_cc.png</file>
+    <file>icons/noun_189082.png</file>
+    <file>icons/noun_189670_cc.png</file>
+    <file>icons/noun_482120_cc.png</file>
+    <file>icons/noun_503845_cc.png</file>
+    <file>icons/noun_565816_cc.png</file>
+    <file>icons/noun_612655_cc.png</file>
+    <file>icons/noun_979068_cc.png</file>
+    <file>icons/noun_1045985_cc.png</file>
+    <file>icons/noun_1112746_cc.png</file>
+    <file>icons/noun_Bring to back.png</file>
+    <file>icons/noun_Bring to Front_1606147.png</file>
+    <file>icons/noun_Pentagon_554225.png</file>
+    <file>icons/picon.png</file>
+    <file>icons/stop-flat.png</file>
+    <file>icons/video-play-64.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,1108 @@
+Nary Relationship Data 2D
+Comma Delimiter
+Relationship Colors Saved
+318,786
+0,A Visual Analytics Framework for Contrastive Network Analysis,1.9950845096277634,10.5894968153280509
+1,Interactive visualization of 3D-vector fields using illuminated stream lines,7.1791085399642975,1.6639952782484511
+2,MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation,-1.9392545929846976,5.7222465531248385
+3,A contract based system for large data visualization,9.1256475766772454,-3.4711136399937788
+4,Visualizing Multivalued Data from 2D Incompressible Flows Using Concepts from Painting,-10.8329431171308102,-1.2928571169467356
+5,A flow-guided streamline seeding strategy,-6.5299905109965612,-2.7475303753275440
+6,A probe for local flow field visualization,3.8460885823428086,17.2989459871342284
+7,CoUX: Collaborative Visual Analysis of Think-Aloud Usability Test Videos for Digital Interfaces,0.6697505336839931,10.3863123705871896
+8,Distribution Driven Extraction and Tracking of Features for Time-varying Data Analysis,-6.3473585735007454,-0.0221598935247013
+9,Saddle connectors - an approach to visualizing the topological skeleton of complex 3D vector fields,8.3365936281459891,1.1087466231187455
+10,Simplified representation of vector fields,4.0704759790501495,18.3970660010738918
+11,Efficient Computation and Visualization of Coherent Structures in Fluid Flow Applications,5.4718324999161121,-1.6059992012322204
+12,Efficient Visualization of Lagrangian Coherent Structures by filtered AMR Ridge Extraction,8.4605049186490451,5.8148441893008851
+13,Implicit stream surfaces,4.5955292506259582,17.4421475224847811
+14,Progressive Learning of Topic Modeling Parameters: A Visual Analytics Framework,2.8979810014579717,5.6921023850442687
+15,Interactive Dimensionality Reduction for Comparative Analysis,2.0926344728852619,10.6576734892378742
+16,UFLOW: visualizing uncertainty in fluid flow,-7.2557254959452315,-3.7472028560900372
+17,An Information-Theoretic Framework for Flow Visualization,-5.6705660474977213,-0.6892646516836254
+18,M2Lens: Visualizing and Explaining Multimodal Models for Sentiment Analysis,-1.1046016393198637,5.3437512635580262
+19,Continuous topology simplification of planar vector fields,5.9793432376431221,-2.1115918008909706
+20,UFLIC: a line integral convolution algorithm for visualizing unsteady flows,-5.9234264400643131,-0.9548748746407821
+21,DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks,-5.3250375469928573,0.9768646797304419
+22,A topology simplification method for 2D vector fields,5.9816458169244795,-2.1115918008909706
+23,CNNPruner: Pruning Convolutional Neural Networks with Visual Analytics,-5.7971867984931356,0.6588979322897413
+24,Differential volume rendering: a fast volume visualization technique for flow animation,-6.7815133916373957,-0.2608391818516760
+25,Flow volumes for interactive vector field visualization,10.1715965288193839,-4.5520818401444618
+26,A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations,-5.3982088125672512,4.8736256088766039
+27,Multifield Visualization Using Local Statistical Complexity,5.9680228121753407,-3.0323574337115238
+28,GlyphCreator: Towards Example-based Automatic Generation of Circular Glyphs,2.6576881100835812,7.8994687545166959
+29,View-Dependent Streamlines for 3D Vector fields,0.8387123729885557,12.3094703598648998
+30,Smoke Surfaces: An Interactive Flow Visualization Technique Inspired by Real-World Flow Experiments,8.7004483847709366,1.0561742649404890
+31,Summit: Scaling Deep Learning Interpretability by Visualizing Activation and Attribution Summarizations,8.8733157568583909,17.4954711110440648
+32,HypoML: Visual Analysis for Hypothesis-based Evaluation of Machine Learning Models,-0.1674688597933723,4.4461579392889723
+33,Investigating swirl and tumble flow with a comparison of visualization techniques,4.2991108263629148,1.0367063249295465
+34,Competing Models: Inferring Exploration Patterns and Information Relevance via Bayesian Model Selection,8.9117371319058059,14.5871488517197303
+35,Tracking of vector field singularities in unstructured 3D time-dependent datasets,5.9481872958859681,-2.2372949717864992
+36,Streamball techniques for flow visualization,5.5667551888673312,-0.2547859606269219
+37,Visualization with stylized line primitives,8.6073678823274324,-0.9840187958999324
+38,Vortex tubes in turbulent flows: identification, representation, reconstruction,1.3152245680350119,-2.0009050529032395
+39,Visual cluster exploration of web clickstream data,2.2592093630731962,12.4874681736565769
+40,Clifford convolution and pattern matching on vector fields,7.1280224949654549,-3.4522031057862899
+41,Visual Neural Decomposition to Explain Multivariate Data Sets,4.2060819010764874,8.0279770907531773
+42,Generation of Accurate Integral Surfaces in Time-Dependent Vector fields,5.9240668845402213,-1.9710214200418412
+43,LISTEN: sounding uncertainty visualization,-7.7435218576453240,-4.1546384852146803
+44,Visual analysis and exploration of fluid flow in a cooling jacket,5.3079503748263042,-0.0750901374579934
+45,Interactive Volume Exploration of Petascale Microscopy Data Streams Using a Visualization-Driven Virtual Memory Approach,6.8861901622884849,11.5484167829208424
+46,Selective visualization of vortices in hydrodynamic flows,1.3268201316814958,-0.9305584301014280
+47,Streamline Variability Plots for Characterizing the Uncertainty in Vector Field Ensembles,8.1936525712624526,3.6926772302594948
+48,Time and Streak Surfaces for Flow Visualization in Large Time-Varying Data Sets,6.4392094219435991,-1.3796582226506213
+49,Collapsing Flow Topology Using Area Metrics,2.9565034529513587,17.1822804864817087
+50,Cores of Swirling Particle Motion in Unsteady Flows,8.1866449956140581,1.4472103264369038
+51,Extraction of parallel vector surfaces in 3D time-dependent fields and application to vortex core line tracking,8.2585350074044950,1.1858086455525765
+52,Streak Lines as Tangent Curves of a Derived Vector field,8.6646048357397554,1.6403022590920120
+53,Visual sentiment analysis on twitter data streams,4.1011239881810493,5.3807741213721343
+54,Comparing Visual-Interactive Labeling with Active Learning: An Experimental Study,1.4657440803928012,3.2439666061990309
+55,Visual Analytics for Temporal Hypergraph Model Exploration,3.8687483500712214,4.1889742762977731
+56,UFAT-a particle tracer for time-dependent flow fields,10.8677533196168099,-3.8607725446324892
+57,FAIRVIS: Visual Analytics for Discovering Intersectional Bias in Machine Learning,9.6466371056640590,17.3274799532556649
+58,IRIS: Illustrative Rendering for Integral Surfaces,6.2359605992766403,-1.4337015145136009
+59,Visualization, Selection, and Analysis of Traffic Flows,4.2531681605566876,17.9849103067073912
+60,Interactive Visual Pattern Search on Graph Data via Graph Representation Learning,-4.0297387177123234,4.1042265007454848
+61,Topological lines in 3D tensor fields,-6.3404725099835071,-4.1406092182136272
+62,Load-Balanced Parallel Streamline Generation on Large Scale Vector fields,-5.9614068132163949,-0.6234353889708203
+63,Flow visualization for turbomachinery design,9.9061737212522978,6.0883901160698493
+64,Anisotropic nonlinear diffusion in flow visualization,2.9011616050567648,20.2043584920727994
+65,Opening the can of worms: an exploration tool for vortical flows,5.4755781640397005,7.8380602168320612
+66,Strategy for seeding 3D streamlines,-6.2997205040081399,-2.7921526153093765
+67,Exploration of 4D MRI Blood Flow using Stylistic Visualization,10.8784785562856197,2.3221927781409373
+68,Two-Dimensional Time-Dependent Vortex Regions Based on the Acceleration Magnitude,7.1438159327228190,0.1615121259063667
+69,Visual Sedimentation,-7.4600296577117318,9.4468872196006206
+70,GenNI: Human-AI Collaboration for Data-Backed Text Generation,6.1780545472531685,11.9271898272788750
+71,A tetrahedra-based stream surface algorithm,6.4915863130900791,-1.9520444236158450
+72,Interactive Comparison of Scalar fields Based on Largest Contours with Applications to Flow Visualization,5.7819411091552881,-3.3675251788593954
+73,Analyzing the Training Processes of Deep Generative Models,-2.1757981960017245,7.5473397224791956
+74,Flow Radar GlyphsStatic Visualization of Unsteady Flow with Uncertainty,2.9610428296464684,2.2088621226941259
+75,StackGenVis: Alignment of Data, Algorithms, and Models for Stacking Ensemble Learning Using Performance Metrics,8.5947123235475935,9.3682219746160289
+76,Semi-Automatic Vortex Extraction in 4D PC-MRI Cardiac Blood Flow Data using Line Predicates,8.9174549957858122,1.9252003961999591
+77,Visualizing Flow of Uncertainty through Analytical Processes,2.6974539371046888,10.2856701017596972
+78,Display of vector fields using a reaction-diffusion model,-8.8987213113389529,-0.8686627486623939
+79,GAN Lab: Understanding Complex Deep Generative Models using Interactive Visual Experimentation,10.1731069266763434,18.4084273679539407
+80,Visualization of turbulent flow with particles,1.5534185427033560,-0.0467208101120729
+81,MobileVisFixer: Tailoring Web Visualizations for Mobile Phones Leveraging an Explainable Reinforcement Learning Framework,-2.9194753783147682,6.5536275358514908
+82,VATLD: A Visual Analytics System to Assess, Understand and Improve Traffic Light Detection,-4.8989001410726489,2.5743182556068147
+83,Visual Human+Machine Learning,10.6541063228809421,3.7876181263807092
+84,Interactive Streak Surface Visualization on the GPU,8.3852588250851667,3.3007880945877250
+85,Moment Invariants for the Analysis of 2D Flow fields,6.3665891545848696,-1.1643021578171375
+86,Illustrative Stream Surfaces,6.4017747861749701,-3.5056370784288831
+87,Stream line and path line oriented topology for 2D time-dependent vector fields,8.3334762304051360,1.1087466231187455
+88,Unsteady flow volumes,10.2919957355643970,-4.1143964546075447
+89,Flow-based scatterplots for sensitivity analysis,2.1677333644638352,12.7708227586049095
+90,Visualization of intricate flow structures for vortex breakdown analysis,5.5891324794765849,-2.4606072016666074
+91,Visual Analytics for Topic Model Optimization based on User-Steerable Speculative Execution,2.6708939763210067,5.4074969553692371
+92,The application of GPU particle tracing to diffusion tensor field visualization,8.4666639636353889,4.4948481465845225
+93,Do Convolutional Neural Networks Learn Class Hierarchy?,-5.0861437164218266,3.5864005917288688
+94,RuleMatrix: Visualizing and Understanding Classifiers with Rules,-3.1633927576659944,5.3269481427827614
+95,Directional flow visualization of vector fields,-6.7338387951644343,-4.1710391778797788
+96,Comparative Visual Analysis of Lagrangian Transport in CFD Ensembles,5.9111831463133990,-1.4990418403601455
+97,Visual Exploration of Nasal Airflow,6.7179173353299317,0.9987264453012129
+98,Coupled Ensemble Flow Line Advection and Analysis,-2.5501116605057343,1.6398156795442400
+99,Feature detection from vector quantities in a numerically simulated hypersonic flow field in combination with experimental flow visualization,0.4358433330555510,-1.6017288781919161
+100,Flow field clustering via algebraic multigrid,3.1233397194214980,19.8137421719499756
+101,Generalized Streak Lines: Analysis and Visualization of Boundary Induced Vortices,5.7823504880256094,-3.1737868061394723
+102,Vorticity based flow analysis and visualization for Pelton turbine design optimization,8.4621066101476980,5.8086799517313707
+103,Sibyl: Understanding and Addressing the Usability Challenges of Machine Learning In High-Stakes Decision Making,-2.8028378586736715,3.6234517403337589
+104,DropoutSeer: Visualizing learning patterns in Massive Open Online Courses for dropout reasoning and prediction,-2.2119783604262664,4.7750608761035007
+105,Interactive Virtual Probing of 4D MRI Blood-Flow,10.8923560543113069,2.3221927781409373
+106,VarifocalReader -- In-Depth Visual Analysis of Large Text Documents,4.6820004174355070,8.1063149848799956
+107,Topological structures of 3D tensor fields,-6.3887609284084981,-4.1703548173179117
+108,Human-in-the-loop Extraction of Interpretable Concepts in Deep Learning Models,-3.7860371322235342,3.7297792031425656
+109,Virtual Smoke: an interactive 3D flow visualization technique,2.4330915323352951,11.4275637204750637
+110,Immersive virtual reality for visualizing flow through an artery,-10.8051816153426952,-1.6007394592617896
+111,Efficient subdivision of finite-element datasets into consistent tetrahedra,10.4024381289951222,-5.7280225716380819
+112,Constructing material interfaces from data sets with volume-fraction information,7.3976031247498355,-2.1102634048322004
+113,2D asymmetric tensor analysis,-6.3262453610299101,-4.1406092182136272
+114,Straightening Tubular Flow for Side-by-Side Visualization,5.2399243714836050,1.0761043689812011
+115,Visualization of time-dependent flow fields,10.8836791053399189,-3.8607725446324892
+116,Interactive deformations from tensor fields,-6.7364879242568234,-4.1710391778797788
+117,On the role of color in the perception of motion in animated visualizations,3.7022443236205960,2.8213093288247100
+118,QLens: Visual Analytics of MUlti-step Problem-solving Behaviors for Improving Question Design,-1.1562719869602271,4.9855874746944835
+119,A Fluid Flow Data Set for Machine Learning and its Application to Neural Flow Map Interpolation,10.9337728194434671,3.7880582682622523
+120,A case study in selective visualization of unsteady 3D flow,9.2407968298912095,6.2144457414309571
+121,Effects of Stereo and Screen Size on the Legibility of Three-Dimensional Streamtube Visualization,-12.5193167508041707,-1.7021859520791713
+122,Visualization Tools for Vorticity Transport Analysis in Incompressible Flow,8.5275782146676082,5.9993886755984098
+123,Interactive Separating Streak Surfaces,8.3669420782496999,3.3007880945877250
+124,Nodes on Ropes: A Comprehensive Data and Control Flow for Steering Ensemble Simulations,10.5245098818436986,3.9306737759513983
+125,ElVis: A System for the Accurate and Interactive Visualization of High-Order finite Element Solutions,-9.5645865369921559,-1.3587224379421516
+126,Fast Algorithms for Visualizing Fluid Motion in Steady Flow on Unstructured Grids,1.2975959780817894,12.8173353892081039
+127,Transport and anisotropic diffusion in time-dependent flow visualization,2.7584885892492665,20.4104049401828753
+128,Visual Interaction with Dimensionality Reduction: A Structured Literature Analysis,2.7161746528555764,4.1175879566767586
+129,Automatic Detection and Visualization of Qualitative Hemodynamic Characteristics in Cerebral Aneurysms,9.6317293330008980,1.6880709959407836
+130,Cluster Analysis of Vortical Flow in Simulations of Cerebral Aneurysm Hemodynamics,9.0666398866049818,0.8565761099772854
+131,Rendering implicit flow volumes,10.3496795725476982,-5.5558162128669233
+132,Advection-Based Sparse Data Management for Visualizing Unsteady Flow,-2.6344157815179283,1.2442253420190510
+133,Trajectory-Based Flow Feature Tracking in Joint Particle/Volume Datasets,2.9995940461146109,11.5831536749819435
+134,TPFlow: Progressive Partition and Multidimensional Pattern Extraction for Large-Scale Spatio-Temporal Data Analysis,-3.6141288687620849,3.8144880418199887
+135,Asymmetric Tensor field Visualization for Surfaces,3.6763202486767139,-0.6509716565041940
+136,Enridged Contour Maps,4.0678470072174626,18.3970660010738918
+137,Rotation Invariant Vortices for Flow Visualization,9.5840347132615538,2.6587065263772947
+138,Occlusion-free Blood Flow Animation with Wall Thickness Visualization,10.1544904276678913,1.1016926986171520
+139,Compass: Towards Better Causal Analysis of Urban Time Series,2.3159940730352182,8.8318669745409828
+140,Case study: e-commerce clickstream visualization,11.0533938002874716,-4.5972963725985929
+141,Brushing of Attribute Clouds for the Visualization of Multivariate Data,5.8157452864806922,-3.7462217610418818
+142,Squares: Supporting Interactive Performance Analysis for Multiclass Classifiers,-4.6316214118856038,6.4591476558675938
+143,A Comparison of the Perceptual Benefits of Linear Perspective and Physically-Based Illumination for Display of Dense 3D Streamtubes,1.6379660732628456,-1.9360612704400910
+144,Functional Decomposition for Bundled Simplification of Trail Sets,3.6369682671980024,18.8254631510449251
+145,VisTA: Integrating Machine Intelligence with Visualization to Support the Investigation of Think-Aloud Sessions,-0.9347737965799415,11.5481939220286609
+146,FLDA: Latent Dirichlet Allocation Based Unsteady Flow Analysis,-3.0866544284978397,1.8230092682073700
+147,VIANA: Visual Interactive Annotation of Argumentation,2.8585918053636337,5.4507324984432719
+148,Revisiting the Modifiable Areal Unit Problem in Deep Traffic Prediction with Visual Analytics,1.0342196276999218,8.2745976810641277
+149,Derived Metric Tensors for Flow Surface Visualization,5.9091007989403179,-1.5741153088724895
+150,Vortex Cores of Inertial Particles,9.5863429187980227,2.4552878459414917
+151,Visualization and Analysis of Rotating Stall for Transonic Jet Engine Simulation,-6.5397333733641920,-0.0778973905942711
+152,VisFlow - Web-based Visualization Framework for Tabular Data with a Subset Flow Model,-7.0798418582848202,5.1581668396587155
+153,Uncertainty-Aware Principal Component Analysis,3.0651130790522223,3.8568466248235738
+154,Segmentation of Three-dimensional Retinal Image Data,7.9367094165789647,-1.2769055398658509
+155,Robust Detection and Visualization of Jet-Stream Core Lines in Atmospheric Flow,7.6147224560669100,5.1283436629060191
+156,Eyelet particle tracing - steady visualization of unsteady flow,6.2411062353625892,-3.1502888157170190
+157,Glyphs for General Second-Order 2D and 3D Tensors,8.7523761341718274,2.6763904063600066
+158,The What-If Tool: Interactive Probing of Machine Learning Models,11.0142743383581969,19.2299549843765121
+159,LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks,5.8405701715397802,12.1655028520775907
+160,DECE: Decision Explorer with Counterfactual Explanations for Machine Learning Models,-2.5862817092588788,5.0961096056089419
+161,ConceptExplorer: Visual Analysis of Concept Drifts in Multi-source Time-series Data,1.9616059869640843,9.1416965810098390
+162,Predictor-Corrector Schemes for Visualization ofSmoothed Particle Hydrodynamics Data,9.9399391050128205,4.8302850434667297
+163,Combined Visualization of Vessel Deformation and Hemodynamics in Cerebral Aneurysms,9.8085557275761754,1.3240206171184141
+164,On the Treatment of Field Quantities and Elemental Continuity in FEM Solutions,-9.8150385180078494,-0.5991522721047563
+165,A graphics hardware-based vortex detection and visualization system,5.2197454383761119,7.8812738264266642
+166,Comparative visualization of protein structure-sequence alignments,-5.9878978959969196,-3.7407260797575712
+167,FDive: Learning Relevance Models Using Pattern-based Similarity Measures,4.7613586891585387,10.3814718505789063
+168,Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models,5.6935779960940422,12.1824524828047487
+169,Visualization of Topological Defects in Nematic Liquid Crystals Using Streamtubes, Streamsurfaces and Ellipsoids,-12.1371556817538515,-2.5978876236183059
+170,Visual Analysis of Discrimination in Machine Learning,-0.7059756770727370,6.1202326878707671
+171,Analysis of Streamline Separation at Infinity Using Time-Discrete Markov Chains,6.3787823474176175,-3.8596453283884493
+172,Backward Finite-Time Lyapunov Exponents in Inertial Flows,9.6036122634082002,2.4552878459414917
+173,P6: A Declarative Language for Integrating Machine Learning in Visual Analytics,1.4811330839794261,12.2943112742646363
+174,Analyzing Vortex Breakdown Flow Structures by Assignment of Colors to Tensor Invariants,4.4679571190587835,-2.9361346607544929
+175,Visualization of Vortices in Simulated Airflow around Bat Wings During Flight,-11.7192208488717498,-1.2056296306945626
+176,Volume rendering of smoke propagation CFD data,10.4677006280863196,5.4564972697583780
+177,Interpolation and visualization for advected scalar fields,0.4509609160507704,13.8605795707383006
+178,Reconstruction and Visualization of Coordinated 3D Cell Migration Based on Optical Flow,4.7432622112969769,-4.5546731306509942
+179,Objective Vortex Corelines of Finite-sized Objects in Fluid Flows,9.5851893033196873,2.4552878459414917
+180,Recirculation Surfaces for Flow Visualization,8.3823531142498471,2.5013062650860598
+181,Time-Dependent Flow seen through Approximate Observer Killing Fields,7.1095846103543741,12.1391326910190784
+182,booc.io: An Education System with Hierarchical Concept Maps and Dynamic Non-linear Learning Plans,5.2963800010665221,12.1189681737533057
+183,Turbulent flow visualization in computational and experimental hydraulics,0.2843287702591037,-0.7360143123443722
+184,Finding Waldo: Learning about Users from their Interactions,7.8640419834833084,15.1263155581638920
+185,Visualization of Flow Behavior in Earth Mantle Convection,5.4937720619772392,-1.3197187191308053
+186,Vector Field Topology of Time-Dependent Flows in a Steady Reference Frame,11.0010686672519817,2.9110531349549982
+187,Flow visualization in a hypersonic fin/ramp flow,0.6649869380258351,-1.8492902017595334
+188,Visual Analysis of Spatia-temporal Relations of Pairwise Attributes in Unsteady Flow,3.2727911810495711,-0.1848196831263287
+189,NeuroCartography: Scalable Automatic Visual Summarization of Concepts in Deep Neural Networks,8.8189992009523461,17.9334872045452620
+190,V2V: A Deep Learning Approach to Variable-to-Variable Selection and Translation for Multivariate Time-Varying Data,-3.5096756031242320,-2.2236248520422808
+191,Escape Maps,6.1613373384475025,6.7593472763621580
+192,Visual Analysis of Aneurysm Data using Statistical Graphics,9.9953270698026060,1.9141465992048985
+193,Exploring cyber physical data streams using Radial Pixel Visualizations,4.4680919178504039,5.0202648876988709
+194,Decoding a Complex Visualization in a Science Museum  An Empirical Study,2.6690956180885439,12.4795751758386562
+195,VIS4ML: An Ontology for Visual Analytics Assisted Machine Learning,2.2144600771838876,4.0317392406410315
+196,Understanding Hidden Memories of Recurrent Neural Networks,-2.5547692791996686,5.6420100748397148
+197,Opening the black box - data driven visualization of neural networks,1.7872526220933842,12.6683398551429391
+198,SineStream: Improving the Readability of Streamgraphs by Minimizing Sine Illusion Effects,1.0563263371801432,4.3286795174149173
+199,Visualization of the Interaction of Multiple Sclerosis Lesions with Adjacent White Matter Fibers Using Streamtubes and Streamsurfaces,-11.3797921962556536,-2.6400271345916426
+200,DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks,11.4903210458281606,1.0947484226988564
+201,Tetrahedral Mesh Compression with the Cut-Border Machine,8.9588573181798896,-2.0935250162641892
+202,High performance flow field visualization with high-order access dependencies,-2.8134396090676934,1.6501403046227165
+203,Analysis of the Near-Wall Flow in a Turbine Cascade by Splat Visualization,7.5223590916933931,-2.8579293878157430
+204,A Visualization Framework for Multi-scale Coherent Structures in Taylor-Couette Turbulence,2.8075794179389004,-0.6978750535297147
+205,Objective Observer-Relative Flow Visualization in Curved Spaces for Unsteady 2D Geophysical Flows,6.8540877790245105,11.8670004327807828
+206,Interactive Exploration of Physically-Observable Objective Vortices in Unsteady 2D Flow,7.3512660388115956,12.3005976493203910
+207,Unsteady phenomena, hypersonic flows and co-operative flow visualization in aerospace research,1.1637438626488765,-1.3691675372353762
+208,NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation,-5.1156418368451533,-0.2553292072704077
+209,Living Liquid: Design and Evaluation of an Exploratory Visualization Tool for Museum Visitors,2.8643002316514994,12.6003760525902919
+210,HyperLIC,-6.3270656064439423,-4.1406092182136272
+211,Where Can We Help? A Visual Analytics Approach to Diagnosing and Improving Semantic Segmentation of Movable Objects,-4.7123224260007479,2.2410323452293546
+212,Stacked Graphs - Geometry & Aesthetics,11.3335492966136862,18.7362356757231794
+213,A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations,-7.3272312677040077,10.1684655066466174
+214,PlotThread: Creating Expressive Storyline Visualizations using Reinforcement Learning,3.4987485953767510,7.8031660934064746
+215,PipelineProfiler: A Visual Analytics Tool for the Exploration of AutoML Pipelines,-5.9276079882954171,5.6212669458205324
+216,Animated exploration of dynamic graphs with radial layout,-5.6146909276088079,7.3861243746991496
+217,Geometry-Based Edge Clustering for Graph Visualization,-0.1577509858316724,5.6563512213500546
+218,Bubble Sets: Revealing Set Relations with Isocontours over Existing Visualizations,3.5054968411251988,6.4546835121679207
+219,ASK-graphView: a large scale graph visualization system,4.5974255973823581,15.6759134959285529
+220,Balancing Systematic and Flexible Exploration of Social Networks,5.6481528493368494,13.6978638464313782
+221,"Search, Show Context, Expand on Demand": Supporting Large Graph Exploration with Degree-of-Interest,5.3922248704722264,14.3449617458986420
+222,Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow,10.6330305493059605,19.6381820979640338
+223,Interactive Visualization of Small World Graphs,4.6665199737888425,16.4358551706502070
+224,ACE: a fast multiscale eigenvectors computation for drawing huge graphs,-1.1278117149038354,6.7367733276892752
+225,Edgelens: an interactive method for managing edge congestion in graphs,5.0604181412926748,6.1537494974967082
+226,Topological Fisheye Views for Visualizing Large Graphs,0.7570972228238263,5.4414887113737835
+227,Parallel Edge Splatting for Scalable Dynamic Graph Visualization,3.6871568666891492,2.0359467502139510
+228,Design Study of LineSets, a Novel Set Visualization Technique,-5.6064421845795076,10.1177741827285210
+229,Skeleton-Based Edge Bundling for Graph Visualization,4.3395081273498146,19.0765095062052303
+230,MobilityGraphs: Visual Analysis of Mass Mobility Dynamics via Spatio-Temporal Graphs and Clustering,7.1659921917525038,9.3823969218526777
+231,Untangling Euler Diagrams,-4.3327746570223615,8.5357428200874228
+232,MoireGraphs: radial focus+context visualization and interaction for graphs with visual nodes,1.9332719408801575,11.4973078561598143
+233,Evaluating Graphical Perception with CNNs,5.4625388667683881,11.2718475967018232
+234,Analyzing the Noise Robustness of Deep Neural Networks,-2.1163037853380464,7.7304140787091313
+235,Visualizing the Hidden Activity of Artificial Neural Networks,4.0933541504002164,20.0579392859228918
+236,Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data,6.3597235441740381,11.1661733765153457
+237,H-BLOB: a hierarchical visual clustering method using implicit surfaces,11.8079219570580705,4.8618879570621596
+238,Visual Exploration of Sparse Traffic Trajectory Data,-1.6945987150054154,3.7209192967113096
+239,A Comparison of User-Generated and Automatic Graph Layouts,-3.9201689354717919,7.1604365411304656
+240,DRGraph: An Efficient Graph Layout Algorithm for Large-scale Graphs by Dimensionality Reduction,0.3147750984733828,9.9504043866752188
+241,Case study: Interactive visualization for Internet security,2.6548221590920629,11.8585378656630667
+242,Dis-function: Learning distance functions interactively,7.0152348257064645,14.9250306191547644
+243,TopicPanorama: A Full Picture of Relevant Topics,-1.6553829580473753,8.2896973711309041
+244,Perceptual Organization in User-Generated Graph Layouts,5.2676064846128163,15.7375658903764162
+245,Rapid Graph Layout Using Space filling Curves,1.7695902310074341,12.3031239200724460
+246,Stereoscopic Highlighting: 2D Graph Visualization on Stereo Displays,-6.0861496324503133,11.3632737481888473
+247,Visualization of graphs with associated timeseries data,-4.9873997806636234,7.8967056987516919
+248,Visual Analysis of Multivariate State Transition Graphs,4.7356883436993318,17.3846546676676255
+249,A novel interface for higher-dimensional classification of volume data,1.8905761186074688,12.9901525473593349
+250,HOLA: Human-like Orthogonal Network Layout,-3.9302581276216602,8.6911209500950051
+251,Sea of Genes: A Reflection on Visualising Metagenomic Data for Museums,2.8781914516997027,12.4635078032808053
+252,Improving the Readability of Clustered Social Networks using Node Duplication,-6.1675794286906482,9.4582749976100047
+253,MoleView: An Attribute and Structure-Based Semantic Lens for Large Element-Based Plots,4.2064926805972647,19.1223487743422247
+254,An Intelligent System Approach for Probabilistic Volume Rendering Using Hierarchical 3D Convolutional Sparse Coding,8.4228688641188612,11.3995481780163939
+255,#FluxFlow: Visual Analysis of Anomalous Information Spreading on Social Media,1.6203981342864735,7.6637232248484066
+256,Ablate, Variate, and Contemplate: Visual Analytics for Discovering Neural Architectures,6.3513721872555617,13.4523792821921795
+257,Synteny Explorer: An Interactive Visualization Application for Teaching Genome Evolution,1.1216435727888359,11.5813232436580495
+258,ProtoSteer: Steering Deep Sequence Model with Prototypes,-3.0662643594617895,4.6178238679091432
+259,LassoNet: Deep Lasso-Selection of 3D Point Clouds,0.4737427200031303,6.3789909761012558
+260,iForest: Interpreting Random Forests via Visual Analytics,-0.1190389541394484,5.2967759688409188
+261,Edge Compression Techniques for Visualization of Dense Directed Graphs,-4.4632998205981949,8.7028107127192111
+262,InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations,-4.5941014393610349,0.5748165287163698
+263,explAIner: A Visual Analytics Framework for Interactive and Explainable Machine Learning,3.0322546865583950,5.6339620520514258
+264,Memorability of Visual Features in Network Diagrams,-4.2368914769276129,9.5739487671184218
+265,TSR-TVD: Temporal Super-Resolution for Time-Varying Data Analysis and Visualization,-3.4066617150891449,-2.0665373538976954
+266,Smooth Graphs for Visual Exploration of Higher-Order State Transitions,2.5701696172121333,0.4851631821214950
+267,An Interactive Method to Improve Crowdsourced Annotations,-1.4927516242569616,8.8669507860067327
+268,Dig-CoLa: directed graph layout through constrained energy minimization,-1.9421394341747582,7.0210965749215744
+269,Visual Verification and Analysis of Cluster Detection for Molecular Dynamics,5.2742684256220205,7.0832608006642594
+270,Visual Abstraction of Large Scale Geospatial Origin-Destination Movement Data,-0.0470870940673541,8.9109570134448131
+271,Dynamic visualization of graphs with extended labels,1.2937921073465273,6.4437412393163953
+272,Visualizing Fuzzy Overlapping Communities in Networks,4.0367286142741232,2.1919226929903268
+273,Organizing Search Results with a Reference Map,2.7310190764218030,3.2014028377363006
+274,AmbiguityVis: Visualization of Ambiguity in Graph Layouts,-0.7556656889183050,6.6573349603769456
+275,Evaluation of Graph Sampling: A Visualization Perspective,-0.3625333708571068,6.2861991367454273
+276,Visual analysis of graphs with multiple connected components,5.0157304710301913,9.0507239192518867
+277,Intelligent Graph Layout Using Many Users' Input,-1.5478773323690249,2.0396512707955567
+278,What Would a Graph Look Like in this Layout? A Machine Learning Approach to Large Graph Visualization,2.0448931475613192,11.8129685675628995
+279,VIGOR: Interactive Visual Exploration of Graph Query Results,8.9125756499916964,16.7278338733995824
+280,Towards Interactive, Intelligent, and Integrated Multimedia Analytics,5.0466835213857593,3.7760052505565671
+281,Have Green - A Visual Analytics Framework for Large Semantic Graphs,1.1402516619866900,6.2860511788463729
+282,Probabilistic Graph Layout for Uncertain Network Visualization,2.7703178540331188,3.3314797109486718
+283,IVORY-an object-oriented framework for physics-based information visualization in Java,11.7020086326956854,5.2582841777193909
+284,CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization,9.1988552921366580,17.9096943768832730
+285,High-Quality Ultra-Compact Grid Layout of Grouped Networks,-4.0352110600845492,8.3490367752782202
+286,Visual Interaction with Deep Learning Models through Collaborative Semantic Inference,5.9175130305160746,12.0543590404208292
+287,WilmaScope Graph Visualisation,-3.2394474666533561,8.6382344529701527
+288,GraphProtector: A Visual Interface for Employing and Assessing Multiple Privacy Preserving Graph Algorithms,1.5112331396566321,10.4655263342746032
+289,NetClinic: Interactive visualization to enhance automated fault diagnosis in enterprise networks,-4.0300676089028924,5.8845476773925673
+290,GLO-STIX: Graph-Level Operations for Specifying Techniques and Interactive eXploration,10.3718022604867119,17.5878863188885788
+291,Annotation Graphs: A Graph-Based Visualization for Meta-Analysis of Data Based on User-Authored Annotations,2.7277001144915096,9.7217147963598087
+292,Revisiting Stress Majorization as a Unified Framework for Interactive Constrained Graph Visualization,1.4405766903390314,4.6993574202309158
+293,Interactive, Graph-based Visual Analysis of High-dimensional, Multi-parameter Fluorescence Microscopy Data in Toponomics,7.9366092190839312,0.7189611897085258
+294,Towards Better Analysis of Deep Convolutional Neural Networks,-2.1051761300459244,7.2244576495289268
+295,Visibility-driven Mesh Analysis and Visualization through Graph Cuts,3.1111024020881874,-1.9691095544149939
+296,Wavelet-based visualization of time-varying data on graphs,-7.4945208941353361,5.7745534076247882
+297,Visualization of Graph Products,6.9729590954636764,-4.0512109732218375
+298,Mining Graphs for Understanding Time-Varying Volumetric Data,-3.8261138141142452,-0.8648712127487748
+299,Towards Automated Infographic Design: Deep Learning-based Auto-Extraction of Extensible Timeline,-0.7132522038968949,5.7407755022093792
+300,ActiVis: Visual Exploration of Industry-Scale Deep Neural Network Models,9.6345583205173000,18.2835398305609225
+301,A Deep Generative Model for Graph Layout,2.1860383980290505,11.6062060956772406
+302,A multi-level middle-out cross-zooming approach for large graph analytics,1.4865993571697720,5.9923766126946640
+303,DeepDrawing: A Deep Learning Approach to Graph Drawing,-0.5950474969944429,5.4720013301216923
+304,Structure-aware Fisheye Views for Efficient Large Graph Exploration,1.5514411216598698,4.7705791350179698
+305,Visual Analysis of Patterns in Multiple Amino Acid Mutation Graphs,6.8957890349364535,8.4778683883498811
+306,Cell phone mini challenge award: Intuitive social network graphs visual analytics of cell phone data using mobivis and ontovis,1.8392866600344833,12.4913748352589558
+307,KG4Vis: A Knowledge Graph-Based Approach for Visualization Recommendation,-1.6351749046312698,5.9866072589021506
+308,Transformation of an Uncertain Video Search Pipeline to a Sketch-Based Visual Analytics Loop,1.2068514652602429,2.1569716978615259
+309,Persistent Homology Guided Force-Directed Graph Layouts,-3.7885740406169766,2.7224099175413574
+310,FairSight: Visual Analytics for Fairness in Decision Making,2.3226329743045033,7.2555999249268339
+311,Visual Classifier Training for Text Document Retrieval,4.7869752405886867,7.6587071161824305
+312,Supporting Analysis of Dimensionality Reduction Results with Contrastive Learning,2.1809091947044768,11.3573237409942678
+313,Preserving Minority Structures in Graph Sampling,-0.1827240332469747,8.0317065825982326
+314,Inter-active learning of ad-hoc classifiers for video visual analytics,4.2701423565503038,2.8102167526462738
+315,Multiscale Snapshots: Visual Analysis of Temporal Summaries in Dynamic Graphs,3.5429246173616411,6.8402703412296164
+316,Context-aware Sampling of Large Networks via Graph Representation Learning,0.4335503399361769,8.8160635320471616
+317,The Effectiveness of Interactive Visualization Techniques for Time Navigation of Dynamic Graphs on Large Displays,-1.1030126804782483,7.4922515862776855
+0,255,255,255,Francine Chen 0001 (Canada),1,0,-1.560473
+1,255,255,0,Malte Zckler (Germany),1,1,3.917990
+2,255,255,0,Detlev Stalling (Germany),1,1,7.059583
+3,255,255,0,Hans-Christian Hege (Germany),7,97,68,9,87,51,50,1
+4,255,100,255,Zhen Li 0044 (USA),2,196,294
+5,255,100,255,Eric B. Lum (USA),1,249,1.669055
+6,255,100,255,Hank Childs (USA),1,3,-0.695592
+7,255,100,255,Eric Brugger (USA),1,3,0.561045
+8,255,100,255,Kathleen S. Bonnell (USA),2,3,112
+9,255,100,255,Jeremy S. Meredith (USA),1,3,1.817682
+10,255,100,255,Mark C. Miller (USA),1,3,3.074319
+11,255,100,255,Brad Whitlock (USA),1,3,4.330956
+12,255,100,255,Nelson L. Max (USA),3,3,25,88
+13,255,100,255,Robert Michael Kirby (USA),5,4,110,125,78,164
+14,255,100,255,H. Marmanis (USA),1,4,1.856553
+15,255,100,255,David H. Laidlaw (USA),6,169,199,110,4,175,121
+16,255,100,255,Vivek Verma (USA),1,5,2.167164
+17,255,100,255,David L. Kao (USA),3,5,20,66
+18,255,100,255,Alex T. Pang (USA),10,116,95,107,61,210,113,166,66,5,16
+19,255,255,255,Wim C. de Leeuw (Netherlands),2,6,49
+20,255,255,255,Jarke J. van Wijk (Netherlands),7,6,223,13,248,59,10,136
+21,255,255,255,Dominik Sacha (UK),2,128,195
+22,255,255,0,Matthias Kraus (Germany),1,195,-1.912354
+23,255,255,0,Min Chen 0001 (Germany),3,32,195,308
+24,255,100,255,Joyce Ma (USA),3,194,209,251
+25,255,255,0,Holger Theisel (Germany),16,50,51,87,9,52,30,76,129,172,150,179,137,157,84,123,180
+26,255,255,0,Tino Weinkauf (Germany),6,51,87,9,30,52,50
+27,255,255,0,Hans-Peter Seidel (Germany),5,37,30,9,87,51
+28,255,255,255,Alexandru C. Telea (Netherlands),7,144,136,10,229,253,235,100
+29,255,100,255,Christoph Garth (USA),9,11,90,42,35,48,58,85,96,44
+30,255,255,0,Florian Gerhardt (Germany),1,11,2.898293
+31,255,255,0,Xavier Tricoche (Germany),7,90,101,35,22,19,42,11
+32,255,255,0,Hans Hagen (Germany),9,11,19,22,71,58,85,36,44,185
+33,255,255,255,Filip Sadlo (Switzerland),5,155,102,12,122,191
+34,255,255,255,Ronald Peikert (Switzerland),7,162,176,63,120,122,12,102
+35,255,100,255,Isaac Liao (USA),1,209,0.764149
+36,255,100,255,Jennifer Frazier (USA),3,194,209,251
+37,255,0,0,Xun Zhao (China),1,260,0.341531
+38,255,255,255,Dik Lun Lee (Hong Kong),1,260,3.483124
+39,255,0,0,Linhao Meng (China),1,270,2.506908
+40,255,100,255,Suresh K. Lodha (USA),2,16,43
+41,255,100,255,Robert E. Sheehan (USA),2,16,43
+42,255,100,255,Craig M. Wittenbrink (USA),1,16,2.113559
+43,255,100,255,Lijie Xu (USA),1,17,-1.166165
+44,255,100,255,Teng-Yok Lee (USA),2,17,62
+45,255,100,255,Han-Wei Shen (USA),10,151,24,62,20,17,208,262,21,23,8
+46,255,100,255,Jambay Kinley (USA),1,70,0.458082
+47,255,100,255,Zhenge Zhao (USA),1,108,1.030082
+48,255,255,0,Gerik Scheuermann (Germany),15,27,101,72,141,156,171,86,297,40,203,71,22,19,35,90
+49,255,100,255,Dongmei Zhang (USA),1,2,-2.832824
+50,255,255,255,Haidong Zhang (Hong Kong),1,2,-1.262028
+51,255,255,255,Xinyi He (Hong Kong),1,2,0.308769
+52,255,100,255,Mengyu Zhou (USA),1,2,1.879565
+53,255,100,255,Emily Kuang (USA),1,7,4.707842
+54,255,100,255,Ehsan Jahangirzadeh Soure (USA),1,7,7.849434
+55,255,100,255,Christopher R. Johnson 0001 (USA),2,24,78
+56,255,100,255,Barry G. Becker (USA),3,25,88,140
+57,255,100,255,Roger Crawfis (USA),3,25,111,131
+58,255,255,0,Heike Leitte (Germany),4,178,141,27,101
+59,255,255,0,Alexander Wiebel (Germany),5,72,86,156,27,101
+60,255,100,255,Wolfgang Kollmann (USA),3,27,71,85
+61,255,0,0,Lvkeshen Shen (China),1,28,-1.478808
+62,255,100,255,Stphane Marchesin (USA),1,29,2.813524
+63,255,100,255,Cheng-Kai Chen (USA),1,29,4.907920
+64,255,100,255,Chris Ho (USA),1,29,7.002315
+65,255,100,255,Kwan-Liu Ma (USA),24,257,288,232,278,0,15,312,77,301,109,133,241,251,209,194,39,89,249,197,306,245,126,173,29
+66,255,255,0,Wolfram von Funck (Germany),1,30,-1.117981
+67,255,0,0,Cheng Tang (China),1,270,4.077705
+68,255,0,0,Zhiyong Guo (China),1,270,5.648501
+69,255,0,0,Miaoxin Hu (China),1,270,7.219297
+70,255,255,0,Benjamin Hferlin (Germany),1,314,0.126582
+71,255,255,0,Rudolf Netzel (Germany),1,314,1.697379
+72,255,255,255,Robert S. Laramee (Austria),5,188,135,44,33,266
+73,255,255,0,Daniel Weiskopf (Germany),9,74,227,33,272,314,117,153,128,282
+74,255,255,255,Jrgen Schneider (Austria),2,33,44
+75,255,255,255,Helwig Hauser (Austria),3,33,44,114
+76,255,255,0,Markus Hferlin (Germany),1,314,3.268175
+77,255,255,0,Gunther Heidemann (Germany),1,314,4.838972
+78,255,255,0,Thilo Spinner (Germany),2,153,263
+79,255,255,0,Manfred Brill (Germany),1,36,1.850330
+80,255,255,0,Hans-Christian Rodrian (Germany),1,36,3.421126
+81,255,255,0,Wladimir Djatschin (Germany),1,36,4.991922
+82,255,255,0,Stanislav V. Klimenko (Germany),1,36,6.562718
+83,255,255,0,Carsten Stoll (Germany),1,37,-1.037054
+84,255,255,0,Stefan Gumhold (Germany),3,37,201,203
+85,255,100,255,David C. Banks (USA),3,38,46,143
+86,255,100,255,Bart A. Singer (USA),1,38,-1.857219
+87,255,100,255,Jishang Wei (USA),1,39,2.545655
+88,255,100,255,Zeqian Shen (USA),2,39,306
+89,255,100,255,Neel Sundaresan (USA),1,39,5.687247
+90,255,255,0,Julia Ebling (Germany),1,40,-0.478647
+91,255,100,255,Jun Han (USA),2,190,265
+92,255,100,255,Bin Wang 0021 (USA),1,267,1.572631
+93,255,255,0,Hanna Hauptmann (Germany),1,263,1.843601
+94,255,100,255,Wenbin He (USA),2,211,262
+95,255,100,255,Han Krishnan (USA),1,42,-0.346714
+96,255,100,255,Tom Tricoche (USA),1,42,2.794878
+97,255,100,255,Kenneth I. Joy (USA),8,42,71,112,48,58,96,185,149
+98,255,100,255,Catherine M. Wilson (USA),1,43,-2.445720
+99,255,255,255,Helmut Doleisch (Austria),3,44,97,293
+100,255,255,255,Markus Hadwiger (Saudi Arabia),4,205,45,206,181
+101,255,100,255,Johanna Beyer (USA),4,236,45,205,70
+102,255,255,255,Won-Ki Jeong (Saudi Arabia),2,45,254
+103,255,100,255,Hanspeter Pfister (USA),10,233,167,236,45,205,70,286,159,168,182
+104,255,255,255,I. Ari Sadarjoen (Netherlands),2,46,183
+105,255,255,255,Frits H. Post (Netherlands),3,46,80,266
+106,255,255,255,Bing Ma (Netherlands),1,46,0.749335
+107,255,255,255,Hans-Georg Pagendarm (Netherlands),4,99,187,207,46
+108,255,255,0,Florian Ferstl (Germany),3,47,84,123
+109,255,255,0,Kai Brger (Germany),3,47,84,123
+110,255,255,0,Rdiger Westermann (Germany),5,47,123,84,92,155
+111,255,100,255,Harinarayan Krishnan (USA),1,48,0.526785
+112,255,255,255,Robert van Liere (Netherlands),1,49,-3.011191
+113,255,255,0,Jan Sahner (Germany),2,50,51
+114,255,100,255,Ming C. Hao (USA),2,53,193
+115,255,255,0,Christian Rohrdantz (Germany),1,53,3.085463
+116,255,100,255,Halldr Janetzko (USA),2,53,193
+117,255,100,255,Umeshwar Dayal (USA),2,53,193
+118,255,255,0,Daniel A. Keim (Germany),8,195,128,55,193,53,315,14,91
+119,255,255,0,Lars-Erik Haug (Germany),1,53,6.227055
+120,255,100,255,Meichun Hsu (USA),2,53,193
+121,255,100,255,Ko-Chih Wang (USA),2,208,262
+122,255,255,0,Fabian Sperrle (Germany),3,14,91,147
+123,255,100,255,ngel Alexander Cabrera (USA),1,57,-1.081083
+124,255,100,255,Will Epperson (USA),1,57,1.013312
+125,255,100,255,David A. Lane (USA),3,56,88,115
+126,255,100,255,Jamie Morgenstern (USA),1,57,3.107707
+127,255,0,0,Fang-Xin Ou-Yang (China),1,267,3.143427
+128,255,255,255,Xinhai Wei (Canada),1,15,-1.099606
+129,255,100,255,Muqiao Yang (USA),1,18,-1.711027
+130,255,255,0,Mathias Hummel (Germany),2,58,96
+131,255,100,255,Bernd Hamann (USA),5,71,112,154,85,58
+132,255,255,255,Roeland Scheepens (Netherlands),1,59,0.191310
+133,255,255,255,Christophe Hurter (Netherlands),4,59,229,253,144
+134,255,255,255,Huub van de Wetering (Netherlands),1,59,3.332902
+135,255,100,255,Jianben He (USA),1,18,0.383369
+136,255,100,255,Xiaoqiang Zheng (USA),4,107,113,210,61
+137,255,100,255,Boonthanome Nouanesengsy (USA),1,62,-2.093192
+138,255,255,255,Martin Roth (Switzerland),1,63,0.506388
+139,255,255,0,Tobias Preuer (Germany),3,64,100,127
+140,255,255,0,Martin Rumpf (Germany),3,64,100,127
+141,255,255,0,Simon Stegmaier (Germany),2,65,165
+142,255,255,0,Ulrich Rist (Germany),1,65,0.243737
+143,255,255,0,Thomas Ertl (Germany),8,269,191,65,165,106,41,214,311
+144,255,100,255,Xiaohong Ye (USA),1,66,1.205179
+145,255,255,255,Roy van Pelt (Netherlands),3,67,105,129
+146,255,255,255,Javier Olivn Bescs (Netherlands),2,67,105
+147,255,255,255,Marcel Breeuwer (UK),2,67,105
+148,255,255,255,Rachel E. Clough (UK),2,67,105
+149,255,255,255,M. Eduard Grller (Austria),4,67,105,83,124
+150,255,255,255,Bart M. ter Haar Romeny (Netherlands),2,67,105
+151,255,255,255,Anna Vilanova (Netherlands),5,129,138,200,105,67
+152,255,255,0,Jens Kasten (Germany),1,68,-0.643914
+153,255,255,0,Jan Reininghaus (Germany),1,68,2.497679
+154,255,255,0,Ingrid Hotz (Germany),2,68,85
+155,255,255,255,Samuel Huron (France),1,69,-1.095796
+156,255,255,255,Romain Vuillemot (France),1,69,2.045797
+157,255,255,255,Jean-Daniel Fekete (France),3,69,213,252
+158,255,100,255,Xingbo Wang (USA),1,18,2.477764
+159,255,100,255,Austin P. Wright (USA),1,189,4.172767
+160,255,100,255,Rahul Duggal (USA),1,189,7.314360
+161,255,255,0,Tom Bobach (Germany),1,71,1.434823
+162,255,255,0,Karim Mahrous (Germany),1,71,4.576416
+163,255,255,0,Dominic Schneider (Germany),2,72,101
+164,255,255,0,Hamish A. Carr (Germany),1,72,-0.902857
+165,255,255,0,Mario Hlawitschka (Germany),1,72,2.238735
+166,255,0,0,Yafeng Lu (China),1,267,4.714223
+167,255,100,255,Michail Schwab (USA),1,182,2.660249
+168,255,100,255,James Tompkin (USA),2,182,233
+169,255,100,255,Colin Fredericks (USA),1,182,3.557847
+170,255,100,255,Connor Huff (USA),1,182,4.455445
+171,255,0,0,Zhonghua Lu (China),1,23,2.274378
+172,255,255,0,Marcel Hlawatsch (Germany),1,74,-2.391062
+173,255,255,0,Philipp C. Leube (Germany),1,74,-0.296667
+174,255,255,0,Wolfgang Nowak (Germany),1,74,1.797729
+175,255,0,0,Guihua Shan (China),1,23,3.845174
+176,255,0,0,Kaixin Chen (China),1,23,5.415970
+177,255,255,0,Benjamin Khler 0001 (Germany),1,76,2.485168
+178,255,255,0,Rocco Gasteiger (Germany),2,76,129
+179,255,255,0,Uta Preim (Germany),1,76,4.579563
+180,255,255,0,Matthias Gutberlet (Germany),1,76,6.673958
+181,255,255,0,Bernhard Preim (Germany),7,293,130,138,163,192,129,76
+182,255,100,255,Yingcai Wu (USA),4,28,214,77,139
+183,255,100,255,Guo-Xun Yuan (USA),1,77,-0.047184
+184,255,100,255,Allen R. Sanderson (USA),1,78,-0.832665
+185,255,255,0,Rita Sevastjanova (Germany),2,14,147
+186,255,255,0,Mennatallah El-Assady (Germany),4,91,147,263,14
+187,255,0,0,Jiaxin Shi (China),2,73,294
+188,255,0,0,Mengchen Liu (China),3,73,234,294
+189,255,255,255,Andrea J. S. Hin (Netherlands),1,80,2.722550
+190,255,0,0,Yuzhe Luo (China),1,28,0.615587
+191,255,0,0,Guan Li (China),1,23,6.986767
+192,255,100,255,Dana Higgins (USA),1,182,5.353043
+193,255,100,255,Anton Strezhnev (USA),1,182,6.250641
+194,255,100,255,Mayya Komisarchik (USA),1,182,7.148239
+195,255,100,255,Gary King (USA),1,182,8.045836
+196,255,255,0,Michael Schlemmer (Germany),1,85,1.462852
+197,255,100,255,Manuel Heringer (USA),1,85,3.033648
+198,255,255,0,Florian Morr (Germany),1,85,4.604444
+199,255,255,0,Martin Hering-Bertram (Germany),1,85,6.175241
+200,255,255,0,Silvia Born (Germany),1,86,-0.986579
+201,255,255,0,Jan Friedrich (Germany),1,86,1.107816
+202,255,255,0,Dirk Bartz (Germany),1,86,3.202211
+203,255,100,255,Yu-Hsuan Chan (USA),1,89,1.315837
+204,255,100,255,Carlos D. Correa (USA),2,89,306
+205,255,100,255,Gordon L. Kindlmann (USA),1,90,-2.636614
+206,255,100,255,Eduard Deines (USA),1,90,-0.542219
+207,255,100,255,Markus Rtten (USA),2,90,174
+208,255,100,255,Charles D. Hansen (USA),1,90,1.552176
+209,255,0,0,Mingliang Xu (China),2,139,161
+210,255,0,0,Yu Zheng 0004 (China),1,139,0.092148
+211,255,255,0,Polina Kondratieva (Germany),1,92,2.669321
+212,255,255,0,Jens H. Krger (Germany),1,92,5.810914
+213,255,100,255,Caleb Robinson (USA),1,31,-2.644836
+214,255,100,255,Haekyu Park (USA),3,31,189,284
+215,255,0,0,Hao Yang (China),1,21,1.426453
+216,255,100,255,Liang Gou (USA),3,21,82,211
+217,255,0,0,Junpeng Wang (China),3,21,23,262
+218,255,100,255,Yindalon Aphinyanagphongs (USA),1,26,-2.528050
+219,255,100,255,Jordan Swartz (USA),1,26,-0.957253
+220,255,100,255,Ed Boring (USA),2,95,116
+221,255,100,255,Harald Obermaier (USA),3,96,149,185
+222,255,255,0,Stefan Zachow (Germany),1,97,2.787018
+223,255,255,0,Philipp Muigg (Germany),1,97,4.881413
+224,255,255,255,Thomas Hildebrandt (Austria),1,97,6.975808
+225,255,0,0,Hanqi Guo 0001 (China),5,262,132,98,202,146
+226,255,0,0,Xiaoru Yuan (China),6,146,202,98,132,277,238
+227,255,0,0,Jian Huang 0007 (China),2,98,132
+228,255,100,255,Xiaomin Zhu (USA),1,98,0.152186
+229,255,255,0,Birgit Walter (Germany),1,99,-2.800411
+230,255,255,0,Michael Griebel (Germany),1,100,4.577359
+231,255,255,0,Marc Alexander Schweitzer (Germany),1,100,7.718952
+232,255,255,255,Etienne Parkinson (Switzerland),1,102,-3.000762
+233,255,0,0,Lu Ying (China),1,28,2.709982
+234,255,100,255,Aritra Dasgupta (USA),1,26,0.613543
+235,255,100,255,Josua Krause (USA),1,26,2.184339
+236,255,0,0,Kalyan Veeramachaneni (China),2,103,104
+237,255,0,0,Sebastien Boyer (China),1,104,-2.076252
+238,255,0,0,Mingqian Zhao (China),1,104,0.018143
+239,255,100,255,Beresford N. Parlett (USA),1,107,-1.418792
+240,255,100,255,Philip J. Smith (USA),1,109,-0.902041
+241,255,100,255,Andrew S. Forsberg (USA),1,110,-0.809530
+242,255,100,255,Andries van Dam (USA),1,110,1.284865
+243,255,100,255,George Em Karniadakis (USA),2,110,175
+244,255,100,255,Jonathan L. Elion (USA),1,110,3.379260
+245,255,100,255,Guy Albertelli (USA),1,111,-1.363457
+246,255,100,255,Daniel Schikore (USA),1,112,1.222603
+247,255,100,255,Mark A. Duchaineau (USA),1,112,4.364195
+248,255,255,255,Paolo Angelelli (Norway),1,114,0.938219
+249,255,255,255,Philip A. Legg (UK),1,308,-2.362799
+250,255,255,255,David H. S. Chung (UK),1,308,-1.106162
+251,255,0,0,Jack Pegg (China),1,32,0.064412
+252,255,255,255,William Alexander (UK),1,32,3.206005
+253,255,255,255,Dirk Bauer (Switzerland),1,120,2.647466
+254,255,255,255,Mie Sato (Switzerland),1,120,5.789059
+255,255,255,255,Mirjam Sick (Switzerland),2,120,122
+256,255,100,255,Jian Chen 0006 (USA),1,121,2.998199
+257,255,100,255,Haipeng Cai (USA),1,121,5.092594
+258,255,100,255,Alexander P. Auchus (USA),1,121,7.186989
+259,255,255,255,Jrgen Waser (Austria),2,83,124
+260,255,255,255,Hrvoje Ribicic (Austria),1,124,0.899969
+261,255,255,255,Raphael Fuchs (Switzerland),3,83,124,162
+262,255,255,255,Christian Hirsch (Denmark),1,124,2.994364
+263,255,255,255,Benjamin Schindler (Denmark),2,124,162
+264,255,255,255,Gnter Blschl (Austria),1,124,5.088759
+265,255,100,255,Blake Nelson (USA),1,125,0.741026
+266,255,100,255,Eric Liu (USA),1,125,3.882619
+267,255,100,255,Robert Haimes (USA),2,125,164
+268,255,255,255,Shyh-Kuang Ueng (Taiwan),2,126,177
+269,255,100,255,Kris Sikorski (USA),1,126,2.278138
+270,255,255,0,David Brkle (Germany),1,127,2.134602
+271,255,100,255,Roman Garnett (USA),1,34,1.095520
+272,255,100,255,Shayan Monadjemi (USA),1,34,4.237113
+273,255,255,0,Andres Lalama (Germany),1,41,2.185300
+274,255,100,255,Keshav Dasu (USA),1,251,0.455042
+275,255,255,255,Dirk J. Lehmann (Netherlands),1,129,-3.106348
+276,255,255,0,Gbor Janiga (Germany),2,129,130
+277,255,255,255,Oliver Beuing (Netherlands),2,129,163
+278,255,255,0,Steffen Oeltze-Jafra (Germany),2,130,293
+279,255,100,255,Juan R. Cebral (USA),1,130,-1.582041
+280,255,100,255,Daqing Xue (USA),1,131,0.149590
+281,255,100,255,Caixia Zhang (USA),1,131,3.291183
+282,255,0,0,Jiang Zhang 0002 (China),2,132,202
+283,255,0,0,Richen Liu (China),1,132,-1.345516
+284,255,0,0,Lu Liu 0017 (China),1,132,0.225280
+285,255,0,0,Xiangfei Meng (China),1,132,1.796077
+286,255,0,0,Jingshan Pan (China),1,132,3.366873
+287,255,100,255,Franz Sauer (USA),1,133,1.251568
+288,255,100,255,Hongfeng Yu (USA),1,133,4.393161
+289,255,255,255,Dongyu Liu (Hong Kong),2,103,134
+290,255,100,255,Panpan Xu (USA),4,108,134,258,60
+291,255,100,255,Ren Liu (USA),7,82,211,134,108,258,60,93
+292,255,100,255,Darrel Palke (USA),1,135,-0.427113
+293,255,100,255,Zhongzang Lin (USA),1,135,1.143683
+294,255,100,255,Guoning Chen (USA),3,135,188,204
+295,255,100,255,Harry Yeh (USA),1,135,2.714480
+296,255,100,255,Paul Vincent (USA),1,135,4.285276
+297,255,100,255,Eugene Zhang (USA),2,135,295
+298,255,255,0,Tobias Gnther (Germany),7,137,179,150,172,192,186,119
+299,255,255,0,Maik Schulze (Germany),1,137,1.107547
+300,255,255,0,Kai Lawonn (Germany),3,138,163,192
+301,255,255,0,Sylvia Saalfeld (Germany),1,138,0.398746
+302,255,255,0,Tobias Isenberg 0001 (Germany),1,138,3.540339
+303,255,255,0,Daniel Seebacher (Germany),1,55,-0.953454
+304,255,255,255,Devanshu Arya (Netherlands),1,55,1.140941
+305,255,255,255,Maximilian T. Fischer (Netherlands),1,55,3.235336
+306,255,100,255,Jeffrey Brainerd (USA),1,140,-0.310968
+307,255,100,255,Qing Chen 0001 (USA),1,104,2.112538
+308,255,100,255,Mukund Raj (USA),1,262,1.482086
+309,255,100,255,Youssef S. G. Nashed (USA),1,262,4.623678
+310,255,0,0,Jie Bao 0003 (China),1,139,1.662945
+311,255,0,0,Xiao Xie (China),2,28,139
+312,255,100,255,Chris Weigle (USA),1,143,-0.977819
+313,255,255,255,Stphane Puechmorel (France),1,144,-1.316419
+314,255,255,255,Florence Nicol (Netherlands),1,144,1.825173
+315,255,0,0,Di Weng (China),1,139,3.233741
+316,255,0,0,Zikun Deng (China),1,139,4.804537
+317,255,255,255,Yangqiu Song (Hong Kong),2,196,307
+318,255,255,255,Matthew L. Parry (UK),1,308,0.150475
+319,255,0,0,Fan Hong (China),1,146,2.787760
+320,255,0,0,Chufan Lai (China),1,146,4.358556
+321,255,0,0,Enya Shen (China),1,146,5.929353
+322,255,0,0,Sikun Li (China),1,146,7.500149
+323,255,255,255,Rhodri Bown (UK),1,308,1.407112
+324,255,255,255,Iwan W. Griffiths (UK),1,308,2.663749
+325,255,0,0,Changjian Chen (China),1,267,6.285020
+326,255,100,255,Daniel Haehn (USA),1,233,-2.004105
+327,255,100,255,Chun-Ming Chen (USA),1,151,-3.095326
+328,255,100,255,Soumya Dutta (USA),2,8,151
+329,255,100,255,Xiaotong Liu (USA),1,151,-1.524529
+330,255,100,255,Gregory Heinlein (USA),1,151,0.046267
+331,255,100,255,Jen-Ping Chen (USA),1,151,1.617063
+332,255,100,255,Bowen Yu 0004 (USA),1,152,-2.170189
+333,255,255,255,Cludio T. Silva (Brazil),3,152,215,296
+334,255,100,255,Nilaksh Das (USA),2,189,284
+335,255,100,255,Omar Shaikh (USA),2,189,284
+336,255,100,255,Robert Turko (USA),1,284,3.324011
+337,255,100,255,Zijie J. Wang (USA),1,284,6.465603
+338,255,100,255,Robert Krger (USA),3,70,236,286
+339,255,255,0,Michael Kern (Germany),1,155,2.717207
+340,255,255,0,Tim Hewson (Germany),1,155,4.811602
+341,255,255,0,Marc Rautenhaus (Germany),1,155,6.905997
+342,255,255,0,Tim Gerrits (Germany),1,157,1.418973
+343,255,255,0,Christian Rssl (Germany),2,157,180
+344,255,255,255,Leishi Zhang (Austria),1,128,-0.310196
+345,255,255,255,John A. Lee (Finland),1,128,1.784199
+346,255,255,255,A. Johannes Pretorius (Netherlands),1,248,-0.514643
+347,255,255,0,Dieter W. Fellner (Germany),1,54,-1.751296
+348,255,255,255,Matthias Zeppelzauer (Austria),1,54,-0.180500
+349,255,255,0,Marco Hutter 0002 (Germany),1,54,1.390296
+350,255,255,0,Jrgen Bernard (Germany),1,54,2.961093
+351,255,100,255,Nikhil Thorat (USA),1,79,-1.093737
+352,255,100,255,Jaakko Peltonen (USA),1,128,3.878594
+353,255,255,255,Kostiantyn Kucher (Sweden),1,75,-0.009921
+354,255,255,255,John Biddiscombe (Switzerland),1,162,1.944265
+355,255,255,0,Monique Meuschke (Germany),2,163,192
+356,255,255,0,Samuel Vo (Germany),1,163,-1.173398
+357,255,100,255,Ashok Jallepalli (USA),1,164,1.524294
+358,255,100,255,Julia Docampo-Snchez (USA),1,164,3.618689
+359,255,255,255,Jennifer K. Ryan (UK),1,164,5.713084
+360,255,100,255,Marc D. Hansen (USA),1,166,1.680242
+361,255,100,255,Doanna Meads (USA),1,166,4.821835
+362,255,255,255,Rafael Messias Martins (Sweden),1,75,2.084474
+363,255,255,255,Angelos Chatzimparmpas (Sweden),1,75,4.178869
+364,255,100,255,Xiaoming Liu 0002 (USA),1,93,3.073559
+365,255,100,255,Mao Ye (USA),1,93,4.644355
+366,255,100,255,Vadim A. Slavin (USA),1,169,-2.481956
+367,255,100,255,Robert Pelcovits (USA),1,169,-0.911159
+368,255,100,255,Song Zhang 0004 (USA),2,169,199
+369,255,100,255,George Loriot (USA),1,169,0.659637
+370,255,100,255,Andrew Callan-Jones (USA),1,169,2.230433
+371,255,100,255,Axel Wendt (USA),1,82,3.109065
+372,255,100,255,Arvind Kumar Shekar (USA),2,82,211
+373,255,255,0,Wieland Reich (Germany),1,171,-1.439102
+374,255,100,255,Michael Hofmann (USA),1,82,5.203460
+375,255,255,0,Nanxiang Li (Germany),1,82,7.297855
+376,255,255,255,Min S. Chong (Australia),1,174,-2.740457
+377,255,100,255,Eduardo Hueso (USA),1,175,2.204047
+378,255,100,255,Igor Pivkin (USA),1,175,3.774844
+379,255,100,255,Sharon Swartz (USA),1,175,5.345640
+380,255,100,255,Kenneth Breuer (USA),1,175,6.916436
+381,255,255,255,Oliver Staubli (Switzerland),1,176,0.660457
+382,255,255,255,Christian Sigg (Switzerland),1,176,2.754852
+383,255,255,255,Markus H. Gross (Switzerland),4,119,237,283,176
+384,255,255,255,Daniel Gubler (Switzerland),1,176,4.849247
+385,255,255,255,Sheng-Chuan Wang (Taiwan),1,177,2.252535
+386,255,255,0,Christopher P. Kappe (Germany),1,178,-2.302992
+387,255,255,0,Lucas Schutz (Germany),1,178,-1.046355
+388,255,255,0,Stefan Gunther (Germany),1,178,0.210282
+389,255,255,0,Lars Hufnagel (Germany),1,178,1.466919
+390,255,255,0,Steffen Lemke (Germany),1,178,2.723556
+391,255,255,0,Thomas Wilde (Germany),1,180,2.631859
+392,255,255,255,Matej Mlejnek (Saudi Arabia),2,181,205
+393,255,255,255,Thomas Theul (Saudi Arabia),3,181,205,206
+394,255,255,255,Peter Rautek (Saudi Arabia),3,181,205,206
+395,255,100,255,Amin Jourabloo (USA),1,93,6.215151
+396,255,100,255,Bilal Alsallakh (USA),1,93,7.785948
+397,255,100,255,Enrico Bertini (USA),3,26,94,215
+398,255,255,255,Arthur E. Mynett (Netherlands),1,183,4.527896
+399,255,255,255,A. J. S. Hin (Netherlands),1,183,7.669489
+400,255,255,0,Andreas Mller 0012 (Germany),1,106,1.339583
+401,255,255,0,Michael Wrner 0001 (Germany),1,106,3.433978
+402,255,255,0,Markus John (Germany),1,106,5.528373
+403,255,100,255,Simon Schrder (USA),1,185,2.799044
+404,255,100,255,John A. Peterson (USA),1,185,4.893439
+405,255,255,0,Louise H. Kellogg (Germany),1,185,6.987834
+406,255,255,255,Irene Baeza Rojo (Switzerland),1,186,0.253368
+407,255,255,0,Thomas Gerhold (Germany),1,187,-2.085645
+408,255,100,255,Marzieh Berenjkoub (USA),1,188,2.396848
+409,255,100,255,Rodolfo Ostilla Monico (USA),2,188,204
+410,255,255,0,Lincan Zou (Germany),2,82,211
+411,255,255,255,Jan Zahlka (Netherlands),1,280,-0.337198
+412,255,255,255,Xiaojuan Ma (Hong Kong),1,118,-1.522993
+413,255,255,255,Reshika Palaniyappan Velumani (Hong Kong),1,118,0.571402
+414,255,255,255,Meng Xia (Hong Kong),1,118,2.665797
+415,255,255,255,Jakob Jakob (Switzerland),1,119,0.120392
+416,255,255,0,Gustavo Mello Machado (Germany),1,191,-1.506182
+417,255,255,0,Thomas Mller 0005 (Germany),1,191,1.635411
+418,255,255,0,Philipp Berg (Germany),1,192,2.256454
+419,255,255,0,Ralph Wickenhfer (Germany),1,192,5.398047
+420,255,100,255,Manish Marwah (USA),1,193,-0.393588
+421,255,255,0,Sebastian Mittelstdt (Germany),1,193,0.653609
+422,255,255,0,Cullen Bash (Germany),1,193,1.700807
+423,255,255,0,Carlos J. Felix (Germany),1,193,2.748004
+424,255,100,255,Chandrakant D. Patel (USA),1,193,3.795202
+425,255,100,255,Yuan Chen 0001 (USA),1,193,4.842400
+426,255,255,0,Michael Bttinger (Germany),1,141,-1.811540
+427,255,100,255,John S. Werner (USA),1,154,0.287290
+428,255,100,255,David F. Wiley (USA),1,154,1.543927
+429,255,100,255,Stacey Choi (USA),1,154,2.800564
+430,255,100,255,Robert Zawadzki (USA),1,154,4.057201
+431,255,100,255,Alfred R. Fuller (USA),1,154,5.313838
+432,255,255,255,Marcel Worring (Netherlands),2,55,280
+433,255,100,255,Takanori Fujiwara (USA),3,0,15,312
+434,255,0,0,Chuan Bu (China),1,198,-2.081658
+435,255,0,0,Quanjie Zhang (China),1,198,0.012737
+436,255,100,255,Qianwen Wang (USA),5,32,198,170,299,303
+437,255,0,0,Jian Zhang 0070 (China),1,198,2.107132
+438,255,255,0,Michael Sedlmair (Germany),5,54,128,304,292,198
+439,255,255,0,Oliver Deussen (Germany),6,198,282,153,91,304,292
+440,255,0,0,Yunhai Wang (China),3,198,292,304
+441,255,100,255,Jack Simon (USA),1,199,-0.968583
+442,255,100,255,Mark Brown (USA),1,199,1.125812
+443,255,100,255,David Miller (USA),1,199,3.220207
+444,255,255,0,Baldwin Nsonga (Germany),1,203,-1.054084
+445,255,255,0,Jordi Ventosa-Molina (Germany),1,203,0.516712
+446,255,255,0,Denis Koschichow (Germany),1,203,2.087508
+447,255,255,0,Jochen Frhlich (Germany),1,203,3.658305
+448,255,100,255,Duong B. Nguyen (USA),1,204,-2.562147
+449,255,100,255,Jakob Troidl (USA),1,205,-0.599069
+450,255,255,255,Xingdi Zhang (Saudi Arabia),1,206,0.746103
+451,255,100,255,Yongsu Ahn (USA),1,310,-0.526465
+452,255,255,255,Songheng Zhang (Hong Kong),1,307,3.599257
+453,255,100,255,Rhema Vaithianathan (USA),1,103,0.162725
+454,255,100,255,Lee Byron (USA),1,212,-0.455446
+455,255,100,255,Martin Wattenberg (USA),4,79,212,158,222
+456,255,255,255,Mohammad Ghoniem (France),1,213,3.763764
+457,255,255,255,Philippe Castagliola (France),1,213,6.905357
+458,255,255,255,Haotian Li 0001 (Hong Kong),1,307,6.740849
+459,255,255,255,Khai N. Truong (Canada),1,145,2.514856
+460,255,255,255,Winter Wei (Canada),1,145,3.771493
+461,255,255,255,Yue Li (Canada),1,145,5.028130
+462,255,100,255,Ka-Ping Yee (USA),1,216,3.009185
+463,255,100,255,Danyel Fisher (USA),2,216,239
+464,255,100,255,Rachna Dhamija (USA),1,216,5.103580
+465,255,100,255,Marti A. Hearst (USA),1,216,7.197975
+466,255,0,0,Weiwei Cui (China),4,303,260,217,275
+467,255,255,255,Hong Zhou 0004 (Hong Kong),1,217,0.804049
+468,255,255,255,Huamin Qu (Hong Kong),19,94,160,258,104,238,118,32,18,303,217,299,259,275,170,274,307,81,2,196
+469,255,100,255,Pak Chung Wong (USA),4,217,302,281,271
+470,255,255,255,Xiaoming Li 0001 (Hong Kong),1,217,3.945642
+471,255,255,255,Christopher Collins 0001 (Canada),4,91,14,218,255
+472,255,255,255,Gerald Penn (Canada),1,218,1.391973
+473,255,255,255,Sheelagh Carpendale (Canada),2,218,225
+474,255,100,255,James Abello (USA),1,219,4.391812
+475,255,100,255,Frank van Ham (USA),4,221,244,223,219
+476,255,100,255,Neeraj Krishnan (USA),1,219,7.533405
+477,255,100,255,Adam Perer (USA),4,168,256,221,220
+478,255,100,255,Ben Shneiderman (USA),1,220,1.987291
+479,255,100,255,Kanit Wongsuphasawat (USA),1,222,1.881602
+480,255,100,255,Daniel Smilkov (USA),1,222,3.138239
+481,255,100,255,James Wexler (USA),2,158,222
+482,255,100,255,Jimbo Wilson (USA),2,158,222
+483,255,100,255,Dan Man (USA),1,222,4.394876
+484,255,100,255,Doug Fritz (USA),1,222,5.651513
+485,255,100,255,Dilip Krishnan (USA),1,222,6.908150
+486,255,100,255,Fernanda B. Vigas (USA),3,79,158,222
+487,255,255,255,Yehuda Koren (Israel),3,224,226,268
+488,255,255,255,Liran Carmel (Israel),1,224,3.955625
+489,255,255,255,David Harel (Israel),1,224,7.097218
+490,255,255,255,Nelson Wong (Canada),1,225,1.379623
+491,255,255,255,Saul Greenberg (Canada),1,225,4.521216
+492,255,100,255,Emden R. Gansner (USA),1,226,-0.495348
+493,255,100,255,Stephen C. North (USA),2,128,226
+494,255,255,0,Michael Burch (Germany),1,227,-1.555581
+495,255,255,0,Corinna Vehlow (Germany),2,227,272
+496,255,255,0,Fabian Beck 0001 (Germany),1,227,0.538814
+497,255,255,0,Stephan Diehl 0001 (Germany),1,227,2.633209
+498,255,100,255,Basak Alper (USA),2,228,246
+499,255,100,255,Nathalie Henry Riche (USA),4,231,261,228,252
+500,255,100,255,Gonzalo A. Ramos (USA),1,228,3.797139
+501,255,100,255,Mary Czerwinski (USA),1,228,6.938732
+502,255,255,255,Ozan Ersoy (Netherlands),2,229,253
+503,255,255,255,Fernando Vieira Paulovich (France),1,229,1.949097
+504,255,255,255,Gabriel Cantareiro (Netherlands),1,229,5.090690
+505,255,255,0,Tatiana von Landesberger (Germany),3,230,276,305
+506,255,255,0,Felix Brodkorb (Germany),1,230,1.353683
+507,255,255,0,Philipp Roskosch (Germany),1,230,2.924479
+508,255,255,0,Natalia V. Andrienko (Germany),1,230,4.495275
+509,255,255,0,Gennady L. Andrienko (Germany),1,230,6.066072
+510,255,255,0,Andreas Kerren (Germany),2,75,230
+511,255,100,255,Tim Dwyer (USA),8,239,81,268,287,250,285,261,231
+512,255,100,255,T. J. Jankun-Kelly (USA),1,232,-1.896385
+513,255,100,255,Alexandra Zytek (USA),1,103,3.304318
+514,255,255,255,Jian Zhao (Canada),1,145,6.284767
+515,255,255,255,Ke Wu (Canada),1,145,7.541404
+516,255,255,255,Mingming Fan 0001 (Canada),2,7,145
+517,255,255,0,Rebecca Kehlbeck (Germany),1,147,-1.488017
+518,255,0,0,Cagatay Turkay (China),1,148,-0.501827
+519,255,0,0,Jincheng Jiang (China),1,148,1.068969
+520,255,0,0,Juncong Lin (China),1,148,2.639766
+521,255,0,0,Chengqiao Lin (China),1,148,4.210562
+522,255,255,0,Dirk Streeb (Germany),2,55,153
+523,255,255,255,Thomas C. Sprenger (Switzerland),2,237,283
+524,255,255,255,R. Brunella (Switzerland),1,237,-0.273367
+525,255,0,0,Zuchao Wang (China),1,238,-0.186377
+526,255,0,0,Tangzhi Ye (China),1,238,1.070260
+527,255,0,0,Min Lu 0002 (China),1,238,2.326897
+528,255,0,0,Jacky Yuan (China),1,238,3.583534
+529,255,0,0,Qianliang Wu (China),1,238,4.840171
+530,255,100,255,Bongshin Lee (USA),4,142,289,81,239
+531,255,100,255,Kori Inkpen Quinn (USA),1,239,1.002733
+532,255,100,255,Petra Isenberg (USA),2,81,239
+533,255,255,255,George G. Robertson (Canada),1,239,4.144326
+534,255,100,255,Chris North 0001 (USA),2,239,247
+535,255,100,255,Zeng Dai (USA),1,60,3.546664
+536,255,100,255,Huan Song (USA),1,60,6.688257
+537,255,255,255,Samuel G. Fadel (Netherlands),1,235,1.406191
+538,255,255,255,Lingyun Yu (Netherlands),3,28,214,259
+539,255,100,255,Furui Cheng (USA),2,160,258
+540,255,100,255,Gregory Guterman (USA),1,257,2.927627
+541,255,100,255,Soon Tee Teoh (USA),1,241,-0.056143
+542,255,100,255,Shyhtsun Felix Wu (USA),1,241,2.038253
+543,255,100,255,Xiaoliang Zhao (USA),1,241,4.132648
+544,255,100,255,Tolga Bolukbasi (USA),1,158,1.527742
+545,255,100,255,Mahima Pushkarna (USA),1,158,4.669335
+546,255,0,0,Kelei Cao (China),2,73,234
+547,255,100,255,Michael Behrisch 0001 (USA),2,167,168
+548,255,0,0,Shixia Liu (China),7,73,294,170,313,267,243,234
+549,255,0,0,Xiting Wang (China),1,243,1.837811
+550,255,0,0,Jianfei Chen 0001 (China),1,243,3.408607
+551,255,0,0,Jim Zhu (China),1,243,4.979403
+552,255,0,0,Baining Guo (China),1,243,6.550200
+553,255,100,255,Bernice E. Rogowitz (USA),1,244,0.582874
+554,255,100,255,Chris Muelder (USA),2,245,306
+555,255,100,255,Tobias Hllerer (USA),1,246,1.938438
+556,255,100,255,JoAnn Kuchera-Morin (USA),1,246,4.032833
+557,255,100,255,Angus G. Forbes (USA),1,246,6.127228
+558,255,100,255,Purvi Saraiya (USA),1,247,4.108482
+559,255,100,255,Peter Lee 0005 (USA),1,247,7.250075
+560,255,255,255,Elmar Eisemann (Netherlands),1,200,-0.606476
+561,255,255,255,Boudewijn P. F. Lelieveldt (Netherlands),1,200,0.650161
+562,255,255,255,Jan C. van Gemert (Netherlands),1,200,1.906798
+563,255,255,255,Thomas Hllt (Netherlands),1,200,3.163435
+564,255,255,255,Steve Kieffer (Australia),2,250,285
+565,255,255,255,Kim Marriott (Australia),4,261,285,250,264
+566,255,255,255,Michael Wybrow (Australia),2,250,264
+567,255,255,255,Anastasia Bezerianos (Australia),1,252,3.037534
+568,255,255,255,Nicola Pezzotti (Netherlands),1,200,4.420072
+569,255,255,255,Paulo E. Rauber (Brazil),1,235,3.500586
+570,255,255,255,Wei Zeng 0004 (Hong Kong),2,148,259
+571,255,255,255,Zhiguang Yang (Hong Kong),1,259,1.610188
+572,255,100,255,Richard Souvenir (USA),1,184,0.872033
+573,255,100,255,Quan Lin (USA),1,184,2.966429
+574,255,100,255,Helen Zhao (USA),1,184,5.060823
+575,255,100,255,Alvitta Ottley (USA),2,34,184
+576,255,255,255,Yuanzhe Chen (Hong Kong),2,104,196
+577,255,255,255,Ruixiang Zhang (Hong Kong),1,196,4.664372
+578,255,255,255,Shaozu Cao (Hong Kong),1,196,7.805965
+579,255,255,255,Yao Ming (Hong Kong),4,258,160,196,94
+580,255,255,0,Wolfgang Straer (Germany),1,201,1.380130
+581,255,255,0,Stefan Guthe (Germany),1,201,4.521722
+582,255,100,255,Jason D. Williams (USA),1,142,-3.068613
+583,255,100,255,Jina Suh (USA),1,142,-1.497816
+584,255,100,255,Saleema Amershi (USA),1,142,0.072980
+585,255,0,0,Xiangyang Wu (China),1,161,1.315972
+586,255,0,0,Dongshi Xu (China),1,161,3.410367
+587,255,0,0,Zexian Chen (China),1,161,5.504762
+588,255,100,255,Zudi Lin (USA),1,167,-2.377976
+589,255,255,0,Tom Polk (Germany),1,167,-0.283581
+590,255,100,255,Frederik L. Dennig (USA),1,167,1.810814
+591,255,255,255,Christopher Mears (Australia),1,261,2.900006
+592,255,255,255,Zhenhua Xu (Hong Kong),1,170,0.383193
+593,255,100,255,Jianping Kelvin Li (USA),1,173,2.538912
+594,255,100,255,Wai Tong (USA),1,81,-0.935654
+595,255,255,255,Helen C. Purchase (Australia),1,264,3.328075
+596,255,255,255,Cagatay Goncu (Australia),1,264,6.469667
+597,255,255,255,Aoyu Wu (Hong Kong),2,2,81
+598,255,100,255,Danny Ziyi Chen (USA),1,190,-1.537178
+599,255,100,255,Yunhao Xing (USA),1,190,0.557217
+600,255,255,255,Jorik Blaas (UK),1,266,0.775112
+601,255,255,255,Charl P. Botha (UK),1,266,2.869507
+602,255,255,255,Edward Grundy (UK),1,266,4.963902
+603,255,255,255,Mark W. Jones (UK),2,266,308
+604,255,0,0,Hao Zheng 0006 (China),1,190,2.651612
+605,255,100,255,Hendrik Strobelt (USA),6,182,168,159,286,70,256
+606,255,255,0,Sebastian Grottel (Germany),1,269,-0.999194
+607,255,255,0,Guido Reina (Germany),1,269,1.095201
+608,255,255,0,Jadran Vrabec (Germany),1,269,3.189597
+609,255,0,0,Jun Zhu 0001 (China),3,73,234,294
+610,255,100,255,Pierre Y. Andrews (USA),1,300,3.130704
+611,255,0,0,Chongxuan Li (China),1,294,-2.231983
+612,255,100,255,Patrick Mackey (USA),3,271,281,302
+613,255,100,255,Ken Perrine (USA),1,271,2.690818
+614,255,100,255,James R. Eagan (USA),1,271,5.832411
+615,255,100,255,Harlan Foote (USA),3,271,281,302
+616,255,100,255,James J. Thomas (USA),2,271,281
+617,255,255,0,Thomas Reinhardt (Germany),1,272,-0.556847
+618,255,255,0,Arlind Nocaj (Germany),2,273,282
+619,255,255,0,Ulrik Brandes (Germany),2,273,282
+620,255,255,255,Yong Wang 0021 (Hong Kong),7,18,118,303,299,170,274,307
+621,255,255,255,Qiaomu Shen (UK),2,274,275
+622,255,255,255,Daniel Archambault (UK),3,274,275,317
+623,255,0,0,Zhiguang Zhou (China),4,313,274,316,270
+624,255,255,255,Min Zhu (Hong Kong),1,274,3.089504
+625,255,0,0,Sixiao Yang (China),1,274,6.231096
+626,255,0,0,Yanhong Wu (China),2,260,275
+627,255,100,255,Nan Cao (USA),2,255,275
+628,255,255,0,Melanie Grner (Germany),1,276,2.060959
+629,255,255,0,Tobias Schreck (Germany),4,315,276,167,161
+630,255,0,0,Limei Che (China),1,277,0.023835
+631,255,0,0,Yifan Hu (China),1,277,2.118230
+632,255,100,255,Xin Zhang (USA),1,277,4.212625
+633,255,100,255,Oh-Hyun Kwon (USA),3,278,301,312
+634,255,100,255,Tarik Crnovrsanin (USA),2,278,306
+635,255,100,255,Robert Pienta (USA),1,279,-1.776508
+636,255,100,255,Fred Hohman (USA),5,279,57,284,189,31
+637,255,100,255,Alex Endert (USA),2,184,279
+638,255,100,255,Acar Tamersoy (USA),1,279,-0.519871
+639,255,100,255,Kevin A. Roundy (USA),1,279,0.736766
+640,255,100,255,Christopher Gates 0002 (USA),1,279,1.993403
+641,255,100,255,Shamkant B. Navathe (USA),1,279,3.250040
+642,255,100,255,Polo Chau (USA),8,31,279,57,290,79,300,284,189
+643,255,100,255,Aditya Kalro (USA),1,300,6.272296
+644,255,100,255,Donghao Ren (USA),1,142,1.643776
+645,255,100,255,George Chin (USA),1,281,2.373760
+646,255,255,0,Christoph Schulz (Germany),1,282,-1.840785
+647,255,255,0,Jochen Grtler (Germany),2,153,282
+648,255,255,255,Daniel Bielser (Switzerland),1,283,2.541314
+649,255,255,255,Tobias Strasser (Switzerland),1,283,5.682907
+650,255,100,255,Remco Chang (USA),3,184,242,256
+651,255,100,255,Ching-Shan Chou (USA),1,208,-0.952291
+652,255,255,255,Vahan Yoghourdjian (Australia),1,285,-2.516665
+653,255,255,255,Graeme Gange (Australia),1,285,-0.422270
+654,255,255,255,Karsten Klein 0001 (Australia),1,285,1.672125
+655,255,100,255,Haoyu Li (USA),1,208,1.142105
+656,255,100,255,Subhashis Hazarika (USA),1,208,3.236500
+657,255,100,255,Sebastian Gehrmann (USA),3,159,168,286
+658,255,100,255,Alexander M. Rush (USA),4,286,70,159,168
+659,255,100,255,Fan-Yin Tzeng (USA),2,197,249
+660,255,255,255,Adel Ahmed (Australia),1,287,1.086779
+661,255,255,255,Colin Murray (Australia),1,287,2.657576
+662,255,255,255,Le Song (Australia),1,287,4.228372
+663,255,255,255,Ying Xin Wu (Australia),1,287,5.799169
+664,255,100,255,Xumeng Wang (USA),2,161,288
+665,255,0,0,Wei Chen 0001 (China),7,270,316,148,139,161,288,240
+666,255,0,0,Jia-Kai Chou (China),1,288,-2.786853
+667,255,0,0,Chris Bryan (China),2,257,288
+668,255,100,255,Huihua Guan (USA),1,288,-1.216057
+669,255,0,0,Wenlong Chen (China),1,288,0.354739
+670,255,100,255,Rusheng Pan (USA),1,288,1.925536
+671,255,100,255,Zhicheng Liu (USA),1,289,-1.811679
+672,255,100,255,Srikanth Kandula (USA),1,289,0.282717
+673,255,100,255,Ratul Mahajan (USA),1,289,2.377112
+674,255,100,255,Charles D. Stolper (USA),1,290,-0.286132
+675,255,100,255,Minsuk Kahng (USA),5,57,290,79,300,284
+676,255,100,255,Zhiyuan Lin 0001 (USA),1,290,0.970505
+677,255,100,255,Florian Foerster (USA),1,290,2.227142
+678,255,100,255,Aakash Goel (USA),1,290,3.483779
+679,255,100,255,John T. Stasko (USA),1,290,4.740416
+680,255,255,255,Jian Zhao 0010 (Canada),5,255,291,15,0,7
+681,255,100,255,Michael Glueck (USA),1,291,-0.090280
+682,255,100,255,Simon Breslav (USA),1,291,1.480517
+683,255,255,255,Fanny Chevalier (France),1,291,3.051313
+684,255,100,255,Azam Khan (USA),1,291,4.622109
+685,255,0,0,Yanyan Wang (China),2,292,304
+686,255,255,255,Yinqi Sun (Hong Kong),2,292,304
+687,255,0,0,Lifeng Zhu (China),1,292,4.445462
+688,255,0,0,Kecheng Lu (China),1,292,7.587055
+689,255,255,255,Chi-Wing Fu (Austria),3,259,292,304
+690,255,0,0,Baoquan Chen (China),2,292,304
+691,255,255,255,Wolfgang Freiler (Austria),1,293,-2.488020
+692,255,255,0,Reyk Hillert (Germany),1,293,-0.393624
+693,255,255,0,Walter Schubert (Germany),1,293,1.700771
+694,255,255,255,Zhutian Chen (Hong Kong),3,170,259,299
+695,255,255,255,Yun Wang 0012 (Hong Kong),2,2,299
+696,255,255,0,Peiran Ren (Germany),1,214,-1.829065
+697,255,0,0,Johannes Knittel (China),2,41,214
+698,255,100,255,Kaichi Zhou (USA),1,295,-1.975881
+699,255,100,255,Jir Bittner (USA),1,295,0.118514
+700,255,100,255,Peter Wonka (USA),1,295,2.212909
+701,255,255,255,Paola Valdivia (Brazil),1,296,2.771116
+702,255,255,255,Fabio Dias (Brazil),1,296,4.341912
+703,255,255,255,Fabiano Petronetto (Brazil),1,296,5.912709
+704,255,100,255,Luis Gustavo Nonato (USA),1,296,7.483505
+705,255,255,0,Stefan Jnicke (Germany),1,297,-0.976385
+706,255,255,0,Christian Heine 0002 (Germany),1,297,0.594411
+707,255,255,0,Marc Hellmuth (Germany),1,297,2.165208
+708,255,255,0,Peter F. Stadler (Germany),1,297,3.736004
+709,255,100,255,Yi Gu (USA),1,298,0.766792
+710,255,100,255,Chaoli Wang 0001 (USA),3,190,265,298
+711,255,100,255,Tom Peterka (USA),2,262,298
+712,255,100,255,Robert L. Jacob (USA),1,298,2.861187
+713,255,100,255,Seung Hyun Kim (USA),1,298,4.955582
+714,255,0,0,Shuhan Liu (China),1,214,-0.258269
+715,255,255,0,Xinke Wu (Germany),1,214,1.312528
+716,255,0,0,Renzhong Li (China),1,214,2.883324
+717,255,0,0,Tan Tang (China),2,28,214
+718,255,100,255,Juliana Freire (USA),1,215,1.972644
+719,255,100,255,Kristin A. Cook (USA),1,302,-0.584480
+720,255,100,255,Randall M. Rohrer (USA),1,302,1.509915
+721,255,100,255,Mark A. Whiting (USA),1,302,3.604310
+722,255,255,255,Zhihua Jin (Hong Kong),2,18,303
+723,255,255,255,Tengfei Ma 0001 (Hong Kong),1,303,-0.258422
+724,255,255,0,Haifeng Zhang (Germany),1,304,1.382303
+725,255,255,0,Olav Lenz (Germany),1,305,-0.742515
+726,255,255,0,Frank Keul (Germany),1,305,0.828281
+727,255,255,0,Sebastian Bremm (Germany),1,305,2.399077
+728,255,255,0,Kay Hamacher (Germany),1,305,3.969874
+729,255,100,255,Ryan Armstrong (USA),1,306,3.783483
+730,255,100,255,James Shearer (USA),1,306,6.925076
+731,255,100,255,Roque Lopez (USA),1,215,3.543441
+732,255,100,255,Sonia Castelo (USA),1,215,5.114237
+733,255,100,255,Jorge Henrique Piazentin Ono (USA),1,215,6.685033
+734,255,0,0,Hang Su 0006 (China),1,234,2.330009
+735,255,100,255,Carla E. Brodley (USA),1,242,4.125652
+736,255,100,255,Peter K. Sorger (USA),1,236,-1.292112
+737,255,100,255,Ashley Suh (USA),1,309,-1.573315
+738,255,100,255,Mustafa Hajij (USA),1,309,-0.002518
+739,255,100,255,Bei Wang 0001 (USA),1,309,1.568278
+740,255,100,255,Carlos Scheidegger (USA),2,108,309
+741,255,100,255,Paul Rosen 0001 (USA),1,309,3.139074
+742,255,100,255,Artem Sokolov (USA),1,236,0.278685
+743,255,100,255,Nam Wook Kim (USA),1,236,1.849481
+744,255,100,255,Won-Dong Jang (USA),1,236,3.420278
+745,255,100,255,Jingjing Liu (USA),1,242,7.267245
+746,255,100,255,Eli T. Brown (USA),2,184,242
+747,255,100,255,Yu-Ru Lin (USA),2,255,310
+748,255,255,255,Yale Song (Canada),1,255,4.531889
+749,255,100,255,Zhen Wen (USA),1,255,7.673482
+750,255,255,0,Harald Bosch (Germany),1,311,1.018561
+751,255,255,0,Steffen Koch 0001 (Germany),4,214,311,106,41
+752,255,255,0,Florian Heimerl (Germany),1,311,4.160154
+753,255,255,255,Alexandre X. Falco (Netherlands),1,235,5.594981
+754,255,255,255,Haejin Jeong (Saudi Arabia),1,254,-0.096575
+755,255,0,0,Ying Zhao 0001 (China),3,270,313,316
+756,255,0,0,Haojin Jiang (China),1,313,-1.716934
+757,255,0,0,Qi'an Chen (China),1,313,-0.669737
+758,255,0,0,Yaqi Qin (China),1,313,0.377461
+759,255,0,0,Huixuan Xie (China),1,313,1.424658
+760,255,0,0,Yitao Wu (China),1,313,2.471856
+761,255,0,0,Jiazhi Xia (China),3,148,161,313
+762,255,0,0,Fangfang Zhou (China),1,313,3.519053
+763,255,255,255,Junyoung Choi (Saudi Arabia),1,254,1.997820
+764,255,255,255,Tran Minh Quan (Saudi Arabia),1,254,4.092215
+765,255,255,0,Eren Cakmak (Germany),1,315,2.593588
+766,255,255,0,Udo Schlegel (Germany),2,263,315
+767,255,255,255,Dominik Jckle (Austria),1,315,5.735181
+768,255,0,0,Chen Shi (China),1,316,1.084215
+769,255,0,0,Xilong Shen (China),1,316,2.340852
+770,255,0,0,Lihong Cai (China),1,316,3.597489
+771,255,0,0,Haoxuan Wang (China),1,316,4.854126
+772,255,0,0,Yuhua Liu (China),1,316,6.110763
+773,255,255,255,Alexandra Lee (UK),1,317,3.631287
+774,255,255,255,Miguel A. Nacenta (Canada),1,317,6.772879
+775,255,0,0,Min-Feng Zhu (China),1,240,2.361784
+776,255,0,0,Yuanzhe Hu (China),1,240,3.618421
+777,255,0,0,Yuxuan Hou (China),1,240,4.875058
+778,255,0,0,Liangjun Liu (China),1,240,6.131695
+779,255,0,0,Kaiyuan Zhang (China),1,240,7.388332
+780,255,100,255,Dylan Cashman (USA),1,256,0.351502
+781,255,255,255,Marta Farre (South Korea),1,257,3.974824
+782,255,100,255,Jian Ma 0004 (USA),1,257,5.022022
+783,255,255,255,Jaebum Kim (UK),1,257,6.069220
+784,255,100,255,Denis M. Larkin (USA),1,257,7.116417
+785,255,100,255,Harris A. Lewin (USA),1,257,8.163614

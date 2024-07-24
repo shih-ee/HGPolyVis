@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>changePolygonColorDialog</class>
+ <widget class="QDialog" name="changePolygonColorDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>309</width>
+    <height>466</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>changePolygonColorDialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QGroupBox" name="groupBox_PolygonColor">
+     <property name="title">
+      <string>PolygonColor</string>
+     </property>
+     <layout class="QGridLayout" name="gridLayout">
+      <property name="leftMargin">
+       <number>2</number>
+      </property>
+      <property name="topMargin">
+       <number>2</number>
+      </property>
+      <property name="rightMargin">
+       <number>2</number>
+      </property>
+      <property name="bottomMargin">
+       <number>2</number>
+      </property>
+      <property name="spacing">
+       <number>2</number>
+      </property>
+      <item row="0" column="4">
+       <widget class="QLabel" name="label_15">
+        <property name="text">
+         <string>Alpha</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLabel" name="label_14">
+        <property name="text">
+         <string>B</string>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_9">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_9">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="0">
+       <widget class="QLabel" name="label_11">
+        <property name="text">
+         <string>Decagon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_9">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="5">
+       <widget class="QPushButton" name="pushButton_C_9">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_9">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_10">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_10">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_10">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_7">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_6">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="0">
+       <widget class="QLabel" name="label_9">
+        <property name="text">
+         <string>Octagon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_7">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_8">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="0">
+       <widget class="QLabel" name="label_10">
+        <property name="text">
+         <string>Enneagon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_7">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="0">
+       <widget class="QLabel" name="label_8">
+        <property name="text">
+         <string>Heptagon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="5">
+       <widget class="QPushButton" name="pushButton_C_8">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="5">
+       <widget class="QPushButton" name="pushButton_C_10">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_11">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_11">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_11">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="0">
+       <widget class="QLabel" name="label_12">
+        <property name="text">
+         <string>Else</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_11">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="5">
+       <widget class="QPushButton" name="pushButton_C_3">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_4">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="5">
+       <widget class="QPushButton" name="pushButton_C_11">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="0">
+       <widget class="QLabel" name="label_5">
+        <property name="text">
+         <string>Quadrangle</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_5">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="5">
+       <widget class="QPushButton" name="pushButton_C_6">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="0">
+       <widget class="QLabel" name="label_7">
+        <property name="text">
+         <string>Hexgon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_8">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_5">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_8">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_7">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_5">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="0">
+       <widget class="QLabel" name="label_6">
+        <property name="text">
+         <string>Pentagon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="5">
+       <widget class="QPushButton" name="pushButton_C_7">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_4">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_6">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_5">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_4">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_6">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_8">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_4">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="5">
+       <widget class="QPushButton" name="pushButton_C_5">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="5">
+       <widget class="QPushButton" name="pushButton_C_4">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_6">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_3">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_3">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="QLabel" name="label_2">
+        <property name="text">
+         <string>R</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_1">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_2">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_3">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="0">
+       <widget class="QLabel" name="label_4">
+        <property name="text">
+         <string>Triangle</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="QLabel" name="label_3">
+        <property name="text">
+         <string>Digon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_1">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_2">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_1">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="3">
+       <widget class="QSpinBox" name="spinBox_Color_B_2">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_10">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="QLabel" name="label_13">
+        <property name="text">
+         <string>G</string>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string>Monogon</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="4">
+       <widget class="QSpinBox" name="spinBox_Color_A_2">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="5">
+       <widget class="QPushButton" name="pushButton_C_1">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="5">
+       <widget class="QPushButton" name="pushButton_C_2">
+        <property name="maximumSize">
+         <size>
+          <width>23</width>
+          <height>23</height>
+         </size>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="1">
+       <widget class="QSpinBox" name="spinBox_Color_R_3">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="QSpinBox" name="spinBox_Color_G_1">
+        <property name="maximum">
+         <number>255</number>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_1">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_2">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="3" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_3">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="4" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_4">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="5" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_5">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="6" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_6">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="7" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_7">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="8" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_8">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="9" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_9">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="10" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_10">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="11" column="6">
+       <widget class="QCheckBox" name="checkBox_ColorSelect_11">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <layout class="QGridLayout" name="gridLayout_2">
+     <property name="topMargin">
+      <number>0</number>
+     </property>
+     <property name="spacing">
+      <number>2</number>
+     </property>
+     <item row="0" column="0">
+      <widget class="QPushButton" name="pushButton_SetPolygonColorsAsSelected">
+       <property name="text">
+        <string>Set All Color as Selected</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QPushButton" name="pushButton_SwapSelectedColors">
+       <property name="text">
+        <string>Swap Selected Colors</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="pushButton_OutputColorInfo">
+       <property name="text">
+        <string>Color Info</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QPushButton" name="pushButton_UpdateColors">
+       <property name="text">
+        <string>Update Colors</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <property name="spacing">
+      <number>2</number>
+     </property>
+     <property name="topMargin">
+      <number>0</number>
+     </property>
+     <item>
+      <widget class="QPushButton" name="pushButton_saveColorScheme">
+       <property name="text">
+        <string>Save Colors...</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_LoadColorScheme">
+       <property name="text">
+        <string>Load Colors...</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_resetToDefaultColors">
+       <property name="text">
+        <string>Reset to default</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QDialogButtonBox" name="buttonBox">
+     <property name="standardButtons">
+      <set>QDialogButtonBox::Cancel|QDialogButtonBox::Ok</set>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>accepted()</signal>
+   <receiver>changePolygonColorDialog</receiver>
+   <slot>accept()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>88</x>
+     <y>169</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>88</x>
+     <y>94</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>buttonBox</sender>
+   <signal>rejected()</signal>
+   <receiver>changePolygonColorDialog</receiver>
+   <slot>reject()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>88</x>
+     <y>169</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>88</x>
+     <y>94</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
