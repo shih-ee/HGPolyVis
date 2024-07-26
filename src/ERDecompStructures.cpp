@@ -879,6 +879,7 @@ void ERBicoComp::processClusters(std::vector<ERCluster*> clusters)
 	{
 		if (cl)
 		{
+			cl->calcEntanglement();
 			for (ERCycle* cy : cl->getCycles())
 				m_cycleClusterMap.insert(std::make_pair(cy, cl));
 			m_clusters.push_back(cl);
@@ -1728,8 +1729,6 @@ void ERCluster::initAdjacencyMatrix()
 bool ERCluster::findForbiddens()
 {
 	initAdjacencyMatrix();
-	if (!m_forbiddens.empty())
-		return true;
 
 	int num = m_cycles.size();
 	std::queue<ERCycle*> search;
@@ -1968,6 +1967,50 @@ void ERCluster::processForbiddens(std::vector<ERForbidden*> candidates, bool mer
 	}
 }
 
+void ERCluster::calcEntanglement()
+{
+	std::unordered_set<Element*> element_set;
+	std::unordered_set<std::pair<Element*, Element*>> edge_set;
+	if (!m_cycles.empty())
+	{
+		for (ERCycle* c : m_cycles)
+		{
+			int len = c->getLength();
+			for (int i = 0; i < len; i++)
+			{
+				Element* e1 = c->getElement(i);
+				Element* e2 = c->getElement((i + 1)%len);
+				element_set.insert(e1);
+				edge_set.insert(std::make_pair(e1, e2));
+			}
+		}
+
+	}
+	else if (!m_forbiddens.empty())
+	{
+		for (ERForbidden* fb : m_forbiddens)
+		{
+			for (ERCycle* cl : fb->getCycles())
+			{
+				int len = c->getLength();
+				for (int i = 0; i < len; i++)
+				{
+					Element* e1 = c->getElement(i);
+					Element* e2 = c->getElement((i + 1) % len);
+					element_set.insert(e1);
+					edge_set.insert(std::make_pair(e1, e2));
+				}
+			}
+		}
+	}
+
+	m_entanglement = float(edge_set.size() - element_set.size() + 1) / float(element_set.size());
+}
+
+float ERCluster::getEntanglement()
+{
+	return m_entanglement;
+}
 
 
 ///////////////////////////////////////////////////////////////

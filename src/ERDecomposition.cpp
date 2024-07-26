@@ -85,6 +85,7 @@ std::vector<ERCluster*> ERCycleDecomp::getClusters()
 	return m_Clusters;
 }
 
+
 // algorithms
 
 void ERCycleDecomp::Decompose()
@@ -101,7 +102,7 @@ void ERCycleDecomp::Decompose()
 		else
 		{
 			// get a cycle basis
-			computeCycleBasis2(comp);
+			computeCycleBasis(comp);
 			
 			if (comp->getNumCycles() > 1)
 			{
@@ -110,13 +111,22 @@ void ERCycleDecomp::Decompose()
 					addCluster(cl, comp);
 			}
 		}
-
-		findCutEdges(comp);
 	}
 
-	//printCycleAdjacency();
 	printDecompStats();
-	
+}
+
+void ERCycleDecomp::InitSimplifications()
+{
+	// sort forbidden clusters by entanglement
+	std::sort(m_Clusters.begin(), m_Clusters.end(),
+		[](ERCluster* a, ERCluster* b)
+		{
+			return a->getEntanglement() > b->getEntanglement();
+		});
+
+	for (ERBicoComp* comp : m_BicoComps)
+		findCutEdges(comp);
 }
 
 // Biconnected-Tree Decomposition
@@ -326,86 +336,6 @@ void ERCycleDecomp::initIncidenceMatrix()
 // Minimum Cycle Basis Extraction
 
 void ERCycleDecomp::computeCycleBasis(ERBicoComp* comp)
-{
-	int num_ens = 0; int num_res = 0;
-	comp->getElemCounts(num_ens, num_res);
-
-	std::queue<Element*> search;
-	std::unordered_set<Entity*> visited_ens;
-	visited_ens.reserve(num_ens);
-	std::unordered_set<Relationship*> visited_res; 
-	visited_res.reserve(num_res);
-
-	Element* start = comp->getElement(0);
-	search.push(start);
-	if (start->getType() == RELATIONSHIP)
-		visited_res.insert(m_ERData->getRelationship(start->getIndex()));
-	else if (start->getType() == ENTITY)
-		visited_ens.insert(m_ERData->getEntity(start->getIndex()));
-
-	// do BFS traversal to find non-spanning tree edges 
-	// (each one corresponds to a linearly independent cycle)
-	while (!search.empty())
-	{
-		Element* current = search.front();
-		search.pop();
-
-		if (current->getType() == RELATIONSHIP)
-		{
-			Relationship* re = m_ERData->getRelationship(current->getIndex());
-			for (Entity* en : re->getIncidentEntities())
-			{
-				if (!comp->containsElement(en)) // Entity not in component
-					continue;
-
-				int en_idx = en->getIndex(); int re_idx = re->getIndex();
-				if (m_edges[en_idx][re_idx]) // edge already used
-					continue;
-
-				if (visited_ens.find(en) == visited_ens.end()) // no cycle
-				{
-					search.push(en);
-					visited_ens.insert(en);
-				}
-				else // cycle found
-				{
-					ERCycle* cycle = backTraceCycle(re, en, comp, num_ens, num_res);
-					addCycle(cycle, comp);
-				}
-
-				m_edges[en_idx][re_idx] = 1; // mark edge as used
-			}
-		}
-		else if (current->getType() == ENTITY)
-		{
-			Entity* en = m_ERData->getEntity(current->getIndex());
-			for (Relationship* re : en->getIncidentRelationships())
-			{
-				if (!comp->containsElement(re)) // Relationship not in component
-					continue;
-
-				int en_idx = en->getIndex(); int re_idx = re->getIndex();
-				if (m_edges[en_idx][re_idx]) // edge already used
-					continue;
-
-				if (visited_res.find(re) == visited_res.end()) // no cycle
-				{
-					search.push(re);
-					visited_res.insert(re);
-				}
-				else // cycle found
-				{
-					ERCycle* cycle = backTraceCycle(en, re, comp, num_ens, num_res);
-					addCycle(cycle, comp);
-				}
-
-				m_edges[en_idx][re_idx] = 1; // mark edge as used
-			}
-		}
-	}
-}
-
-void ERCycleDecomp::computeCycleBasis2(ERBicoComp* comp)
 {
 	int num_ens = 0; int num_res = 0;
 	comp->getElemCounts(num_ens, num_res);
@@ -1109,6 +1039,8 @@ void ERCycleDecomp::processCutEdges(std::vector<std::pair<Element*, Element*>> e
 				m_cutEdges.push_back(edge1);*/
 		}
 	}
+
+	LogConsole::writeConsole("%d valid edge crossings", m_cutEdges.size());
 }
 
 
@@ -1372,6 +1304,17 @@ ERTreeComp* ERCycleDecomp::mergeTreeComps(ERTreeComp* t1, ERTreeComp* t2)
 
 	return t1;
 }
+
+std::vector<Element*> ERCycleDecomp::getTreeRoots(ERTreeComp* tcomp)
+{
+	std::vector<Element*> roots;
+	for (Element* e : tcomp->getElements())
+	{
+		if (m_ElemBicoMap.find(e) != m_ElemBicoMap.end())
+			roots.push_back(e);
+	}
+}
+
 
 void ERCycleDecomp::addCycle(ERCycle* cycle, ERBicoComp* bcomp)
 {
@@ -1723,15 +1666,17 @@ ERForbidden* ERCycleDecomp::getNextWorstForbidden(ERCluster* cl)
 		{
 			if (!worst)
 				worst = fb;
-			else if (worst->getNumCycles() < fb->getNumCycles() || ( (worst->getNumCycles() == fb->getNumCycles()) && (worst->getIndex() > fb->getIndex()) ) )
+			else if (worst->getNumCycles() < fb->getNumCycles() || 
+				( (worst->getNumCycles() == fb->getNumCycles()) && 
+					(worst->getIndex() > fb->getIndex()) ) )
 				worst = fb;
 		}
 		else if (fb->getType() == FORBIDDENTYPE::SATURATED) // severity of saturated depends on card of central element
 		{
 			if (!worst)
 				worst = fb;
-			else if (worst->getType() == FORBIDDENTYPE::NADJACENT)
-				return worst;
+			else if (worst->getType() == FORBIDDENTYPE::NADJACENT) 
+				return worst; // nadjacent are extracted first
 			
 			int card = 0;
 			Entity* en; Relationship* re;
@@ -1978,6 +1923,9 @@ std::pair<Entity*, Relationship*> ERCycleDecomp::getNextCutEdge()
 
 void ERCycleDecomp::printDecompStats()
 {
+
+
+
 	int nodes = m_ERData->getEntityNum() + m_ERData->getRelationshipNum();
 	int edges = 0;
 	for (Relationship* re : m_ERData->getRelationships())
@@ -1985,8 +1933,39 @@ void ERCycleDecomp::printDecompStats()
 	int beta1 = edges - nodes + 1;
 	float eta = (float)beta1 / (float)(nodes);
 
-	LogConsole::writeConsole("Cycles: %d", m_Cycles.size());
+	int bridges = 0;
+	int branches = 0;
+	for (ERTreeComp* tcomp : m_TreeComps)
+	{
+		std::vector<Element*> roots = getTreeRoots(tcomp);
+		if (roots.size() > 1)
+			bridges++;
+		else
+			branches++;
+	}
+
+	int long_cycles = 0;
+	int min_cycles = 0;
+	for (ERCycle* cy : m_Cycles)
+	{
+		if (cy->getLength() == 4)
+			min_cycles++;
+		else
+			long_cycles++;
+	}
+
+	LogConsole::writeConsole("======== Decomposition Information ========");
+	LogConsole::writeConsole("Topological Blocks: %d", m_BicoComps.size());
+	LogConsole::writeConsole("Bridges: %d", bridges);
+	LogConsole::writeConsole("Branches: %d", branches);
+	LogConsole::writeConsole("Minimal Cycles: %d", min_cycles);
+	LogConsole::writeConsole("Long Cycles: %d", long_cycles);
+	LogConsole::writeConsole("Forbidden Clusters: %d", m_Clusters.size());
+	
+	LogConsole::writeConsole("\n");
+
+	LogConsole::writeConsole("Total Cycles: %d", m_Cycles.size());
 	LogConsole::writeConsole("Beta1: %d", beta1);
 	LogConsole::writeConsole("Entanglement: %.4f", eta);
-	LogConsole::writeConsole("Valid Edge Cuts: %d", m_cutEdges.size());
+	LogConsole::writeConsole("===========================================");
 }

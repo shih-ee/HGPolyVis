@@ -39,9 +39,9 @@ public:
 
 	// algorithms
 	void Decompose();
+	void InitSimplifications();
 	void computeBiconnectedComponents();
 	void computeCycleBasis(ERBicoComp* comp);
-	void computeCycleBasis2(ERBicoComp* comp);
 	void initIncidenceMatrix();
 	ERCycle* backTraceCycle(Element* en, Element* re, ERBicoComp* comp, int num_ens, int num_res);
 	void processLongCycle(ERCycle* cycle, std::pair<Entity*, Relationship*> edge, ERBicoComp* bcomp);
@@ -70,6 +70,7 @@ public:
 	void addTreeComp(ERTreeComp* tcomp);
 	void addTreeElement(ERTreeComp* tcomp, Element* e);
 	ERTreeComp* mergeTreeComps(ERTreeComp* t1, ERTreeComp* t2);
+	std::vector<Element*> getTreeRoots(ERTreeComp* tcomp);
 
 	void addCycle(ERCycle* cycle, ERBicoComp* bcomp = NULL);
 	void removeCycle(ERCycle* cycle);

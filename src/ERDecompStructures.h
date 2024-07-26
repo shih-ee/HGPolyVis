@@ -248,6 +248,7 @@ class ERCluster
 private:
 
 	int m_index;
+	float m_entanglement;
 	std::unordered_set<ERCycle*> m_cycleset;
 	std::vector<ERCycle*> m_cycles;
 	std::unordered_map<int, int> m_adjacency;
@@ -280,6 +281,9 @@ public:
 	bool findForbiddens();
 	ERForbidden* backTraceForbidden(ERCycle* source, ERCycle* target, std::unordered_map<int, int> adjacency);
 	void processForbiddens(std::vector<ERForbidden*> forbiddens, bool merge_strangled, bool merge_saturated, bool merge_nadjacent);
+
+	void calcEntanglement();
+	float getEntanglement();
 };
 
 
