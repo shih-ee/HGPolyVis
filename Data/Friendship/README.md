@@ -4,4 +4,4 @@ R. Mastrandrea, J. Fournet, A. Barrat,
 Contact patterns in a high school: a comparison between data collected using wearable sensors, contact diaries and friendship surveys.
 PLoS ONE 10(9): e0136497 (2015). https://doi.org/10.1371/journal.pone.0136497.
 
-The datasets here are redistributed under the Creative Commons Atrribution-NonCommercial-ShareAlike 4.0 license.
+The datasets here are redistributed under the Creative Commons Atrribution-NonCommercial-ShareAlike 4.0 license: https://creativecommons.org/licenses/by-nc-sa/4.0/.
