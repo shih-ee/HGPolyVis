@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the algorithms and datasets presented in
 
-> Oliver, P., Zhang, E., & Zhang, Y. Structure-Aware Simplification for Hypergraph Visualization. IEEE Transactions on Visualization and Computer Graphics, to appear. 2024.
+> P. Oliver, E. Zhang, and Y. Zhang. Structure-Aware Simplification for Hypergraph Visualization. Accepted. *To appear in IEEE Transactions on Visualization and Computer Graphics*. 2024. arxiv: https://arxiv.org/abs/2308.05043.
 
 The executable in the Deploy folder is available under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
