@@ -1,0 +1,208 @@
+Nary Relationship Data 2D
+Comma Delimiter
+Relationship Colors Saved
+###subset 131
+
+146,56
+0,Sangbae Kim,-0.4205059875839254,-22.9888453115015210
+1,Joo Ramos,-0.9851644636156532,-22.3040435729972799
+2,Patrick M. Wensing,-1.7027855115075006,-23.7140181416197890
+3,Albert Wang,-0.6931559857119560,-23.7003340279577159
+4,Sangok Seok,-0.9829534897109822,-23.2411226766209928
+5,David Otten,-1.1635116851601668,-23.8353618169809707
+6,Jeffrey Lang,-1.4464049749082526,-23.1335843675721975
+7,Sehyuk Yim,0.1874272912944000,-22.4489247161026242
+8,Shuhei Miyashita,0.7437045596349973,-22.9027045149529371
+9,Daniela Rus,1.0237657923451664,-22.1550758768312299
+10,Taeyoon Lee,-2.4742214959681474,-23.9074284968870181
+11,Frank C. Park,-2.9614435614849763,-24.4435236499823603
+12,Byoungkwon An,1.5616580076482229,-22.4658326003289552
+13,Aaron C. Ong,1.0799963555139789,-23.2700916573835599
+14,Michael Thomas Tolley,1.2009593585848366,-22.7473357198005033
+15,Martin L. Demaine,1.5137798915492140,-23.1312488037536177
+16,Erik D. Demaine,1.8414769131670787,-22.8230658932645554
+17,Robert J. Wood,1.8000583409513671,-23.7233664408319953
+18,Jingjin Yu,1.1527688361532642,-21.0455364852998201
+19,Mac Schwager,-0.0260776097750047,-20.7069953472926578
+20,Sertac Karaman,2.2870574553209395,-20.6611055473991954
+21,Junhyoung Ha,-3.6861738058125977,-24.5634461245964424
+22,Pierre E. Dupont,-4.2151129775842504,-25.2203121024196300
+23,Jun Zhang 0025,2.3810262467283794,-23.8784955139489945
+24,Jun Sheng,3.0544234743831096,-24.2920843637222532
+25,Ciaran T. O'Neill,2.5814371728654435,-24.2683027693952873
+26,Conor J. Walsh,2.1079188086344001,-24.4009846494563263
+27,Jee-Hwan Ryu,3.1182463160197762,-23.8034336408276523
+28,Jaydev P. Desai,2.8846312563354872,-24.7309032812336866
+29,Michael C. Yip,2.6971558714589099,-23.5595936411044917
+30,Panagiotis Polygerinos,1.1678746433454659,-24.6598126632911594
+31,Zheng Wang 0002,1.2712277943070374,-25.2054514805976453
+32,Johannes T. B. Overvelde,1.5722907392184358,-24.3326228309971633
+33,Kevin C. Galloway,1.7380461694668159,-24.8262124069258618
+34,Katia Bertoldi,1.1056494241474739,-24.1938914523060333
+35,Steven M. LaValle,1.3589425295128224,-20.3242509196280636
+36,Alyssa Pierson,-0.8343367993903726,-21.1353655708845238
+37,Dingjiang Zhou,-0.2909841615415101,-20.1114607172165769
+38,Zijian Wang,0.4047690046322919,-20.0445877604737461
+39,Xiaodong Lan,0.0147656358823195,-21.3920364639415830
+40,Eduardo Montijano,-0.5124997548621154,-19.6325762725669577
+41,Eric Cristofalo,-0.8617618490349206,-20.3068008267273612
+42,Carlos Sags,-1.1461357924161106,-19.6405575402653767
+43,Luca Carlone,3.9409456340885716,-19.0865476435495935
+44,Georgios Fagogenis,-4.3306055713502083,-24.3569159124895691
+45,Christos Bergeles,-4.7589163228408164,-26.1521463980790045
+46,Andrew H. C. Gosline,-4.1421542126533630,-26.3081559175726127
+47,Nikolay V. Vasilyev,-3.6744320098427194,-26.1349725313917922
+48,Patrick J. Codd,-3.7758470044996790,-25.6391507536259411
+49,Pedro J. del Nido,-4.3062570477523003,-25.7874855051575977
+50,Ouajdi Felfoul,-4.9446332631728973,-25.3813105273044641
+51,Aaron T. Becker,-5.5889403075977739,-25.2595933875288630
+52,Dheeraj Gandhi,3.7426388587890402,-24.5104322168395825
+53,Rao P. Gullapalli,3.7069775055487977,-25.0544924273619358
+54,J. Marc Simard,3.2535495610960825,-25.1417614408552694
+55,Aghil Jafari,3.8833085716528664,-23.2089821788572834
+56,Muhammad Nabeel,4.1763782524366526,-23.7566838499439612
+57,Yeongjin Kim,3.7724190264110216,-25.5776555416743179
+58,Shing Shin Cheng,2.9113769449330116,-25.5627668980855631
+59,Mahamadou Diakite,3.3357217045920291,-25.8396686727637785
+60,Gnter Niemeyer,3.0922311554035331,-22.7219983538960548
+61,Juan Yi,0.4714309424922566,-25.9993534168956693
+62,Xiaojiao Chen,1.4708104600834002,-25.8548837309714443
+63,Chaoyang Song,0.8025336086874622,-26.3798239084419421
+64,Jianshu Zhou,1.3032437666479211,-26.3335512068837190
+65,Yujia Liu,0.6728573001853596,-25.5318468720427028
+66,Sicong Liu,0.9982078196139249,-25.8788326270438738
+67,Jos Manuel Palacios-Gass,-0.3904226205352913,-18.9709770690945447
+68,Sergio Llorente,-0.9653870722959387,-18.9076764758112930
+69,Miguel Aranda,-1.7531214004959585,-19.0920190251482964
+70,Gonzalo Lpez-Nicols,-2.0408072619784070,-19.6695359523381157
+71,Youcef Mezouar,-2.4241624671180420,-18.9441033115031736
+72,Christian Forster,4.0453851598826960,-19.7253139164736062
+73,Frank Dellaert,3.5094207464435061,-19.5098592411926361
+74,Davide Scaramuzza,4.5942816352957285,-19.2511694796641244
+75,Cesar Cadena,4.8397042818357372,-18.7224361571554745
+76,Henry Carrillo,4.7688992580817686,-18.2390143026886697
+77,Yasir Latif,4.3964926669368838,-18.6244443786273628
+78,Jos Neira,5.2451427006526954,-18.3998356346378173
+79,Ian Reid 0001,4.3246352283675460,-18.1650972321561852
+80,John J. Leonard,4.7627230532760301,-17.5818103099188257
+81,Giuseppe C. Calafiore,2.8326045720471797,-19.2767209242835733
+82,Carlo Tommolillo,3.0151244079019275,-19.8437111194509583
+83,Alessandro Vandini,-5.5120377421783022,-26.7515808632828076
+84,Ben Glocker,-4.9727531914131378,-26.7225820753878978
+85,Petros Giataganas,-4.6337785042458712,-27.1507041113226677
+86,Guang-Zhong Yang,-5.2235855149407202,-27.2764791572110710
+87,Shiva Shahrokhi,-6.1638451672839887,-24.9860618328450563
+88,Jingang Shi,-6.1819565388612547,-24.3506866690285406
+89,Benedict Isichei,-5.5882871368056382,-24.4726089200316110
+90,Lillian Lin,-6.6085866108661495,-25.7132273246644480
+91,Chris Ertel,-6.6877336893217034,-25.1589872865387889
+92,Mable Wan,-6.0856008387259273,-25.6831798711516264
+93,Omar Tahri,-3.4333286736686826,-18.2030907366185986
+94,Driss Boutat,-2.5947231068367156,-18.0484550465411893
+95,Aurelien Yeremou Tamtsia,-2.9975765430588064,-18.6546590097817031
+96,Cdric Demonceaux,-3.3548641976307456,-19.0995973430102630
+97,Zichao Zhang,4.4396915474577225,-20.0597010832459546
+98,Michael Gassner,3.7504343155386204,-20.1955937399113488
+99,Manuel Werlberger,4.1633952227636346,-20.5067801093844828
+100,Antonio Loquercio,5.0711342041361016,-20.2242879336220973
+101,Elia Kaufmann,5.0436194064232405,-19.7462621448393705
+102,Ren Ranftl,5.5097624861373946,-19.7339699596142673
+103,Alexey Dosovitskiy,5.4932389800316761,-20.4205230529639756
+104,Vladlen Koltun,5.8395509498165019,-20.0513090068344404
+105,Ruben Gomez-Ojeda,3.3420572591564577,-18.8288679527453340
+106,Francisco Angel Moreno,3.6805166940365361,-18.1111913643612539
+107,David Zuiga-Nol,3.7693310370320354,-18.5852487316933974
+108,Javier Gonzlez Jimnez,3.0925234510133408,-18.2777039341202254
+109,Elias Mueggler,6.0043504492814694,-19.3217005907241024
+110,Guillermo Gallego 0002,5.3990721471981065,-19.1457203484944039
+111,Henri Rebecq,5.7897245166176008,-18.7845824228774099
+112,Reza Sabzevari,4.7664380275716267,-20.7564321209124145
+113,Mara Luisa Rodrguez-Arvalo,6.2593844076163236,-18.0041805058037703
+114,Jos A. Castellanos,6.5056008406011783,-18.5337436145474825
+115,Beipeng Mu,4.5114084462495283,-16.5751322863699428
+116,Liam Paull,3.8558688698894086,-16.6594143509284720
+117,Ali-Akbar Agha-Mohammadi,4.1859097041076616,-17.0440182718632549
+118,Jonathan P. How,4.2240817603175307,-16.0295186416817330
+119,Stephanie M. Lowry,5.3144744122996741,-16.5532141815215113
+120,Niko Snderhauf,5.4774977159351792,-17.4897645177963845
+121,Paul Newman 0001,5.9508617937221349,-17.2240576713379703
+122,David D. Cox,5.0552497789447468,-17.0260323199678751
+123,Peter I. Corke,5.8414503470750274,-16.6808124322403728
+124,Michael J. Milford,5.5116964455101840,-17.0185199977068145
+125,Manikandan Bakthavatchalam,-4.0600156829383627,-17.9037702836646524
+126,Franois Chaumette,-4.5385614222898978,-17.3304377570928807
+127,Mariano Jaimez,2.1033372950036857,-17.6507924376989358
+128,Javier Gonzalez Monroy,2.6824307554312856,-17.5670691432436996
+129,Manuel Lopez-Antequera,2.2757003781858480,-18.2161982732201295
+130,Mark Cutler,3.3784416239221002,-15.6535052398209817
+131,Thomas J. Walsh,3.9362308777140100,-15.2774157919037172
+132,Bernard Michini,4.6333481485527992,-15.3012307861333028
+133,Ali-akbar Agha-mohammadi,4.2987864662899842,-14.6635294142347377
+134,Nathan Crombez,-3.9433669229594637,-16.3749867530152216
+135,El Mustapha Mouaddib,-4.4772715940392285,-16.5971398226260618
+136,Guillaume Caron,-3.8644064045719184,-16.9738880215718488
+137,Aly Magassouba,-5.3439840846098905,-17.8059943089548405
+138,Nancy Bertin,-4.8646402444991850,-18.1863676096798983
+139,Sbastien Briot,-5.2317650726479163,-16.5301153136975749
+140,Philippe Martinet,-5.5241855510988556,-17.0556423877067616
+141,Saurav Agarwal,4.0429436673714516,-13.6201881546408536
+142,Sung-Kyun Kim,4.6049713595963855,-13.6356697027523914
+143,Suman Chakravorty,3.9421536871301188,-14.1344964383930787
+144,Nancy M. Amato,4.6928750929380234,-14.1544131394554480
+145,Victor Rosenzveig,-5.9868967104632134,-16.4360823126283293
+0,179,222,105,Humanoid Dynamic Synchronization Through Whole-Body Bilateral Feedback Teleoperation.,2,1,0
+1,251,128,114,Proprioceptive Actuator Design in the MIT Cheetah - Impact Mitigation and High-Bandwidth Physical Interaction for Dynamic Legged Robots.,6,2,5,3,0,4,6
+2,141,211,199,Teleoperated Micromanipulation System Manufactured by Cut-and-Fold Techniques.,4,0,8,9,7
+3,128,177,211,Geometric Robot Dynamic Identification - A Convex Programming Approach.,3,11,2,10
+4,204,235,197,An End-to-End Approach to Self-Folding Origami Structures.,8,8,13,17,15,16,12,9,14
+5,128,177,211,Correlated Orienteering Problem and its Application to Persistent Monitoring Tasks.,3,9,18,19
+6,128,177,211,Persistent Monitoring of Events With Stochastic Arrivals at Multiple Stations.,3,9,20,18
+7,128,177,211,Optimizing Tube Precurvature to Enhance the Elastic Stability of Concentric Tube Robots.,3,22,11,21
+8,204,235,197,Robotic Artificial Muscles - Current Progress and Future Perspectives.,8,26,25,28,24,27,29,23,17
+9,190,186,218,Modeling of Soft Fiber-Reinforced Bending Actuators.,7,30,31,33,26,17,32,34
+10,179,222,105,Optimal Multirobot Path Planning on Graphs - Complete Algorithms and Effective Heuristics.,2,18,35
+11,179,222,105,Controlling Noncooperative Herds with Robotic Herders.,2,36,19
+12,128,177,211,Agile Coordination and Assistive Collision Avoidance for Quadrotor Swarms Using Virtual Structures.,3,19,38,37
+13,179,222,105,Rapidly Exploring Random Cycles - Persistent Estimation of Spatiotemporal Fields With Multiple Sensing Robots.,2,39,19
+14,253,180,98,Vision-Based Distributed Formation Control Without an External Positioning System.,5,41,19,37,40,42
+15,179,222,105,Attention and Anticipation in Fast Visual-Inertial Navigation.,2,43,20
+16,128,177,211,Modeling Tube Clearance and Bounding the Effect of Friction in Concentric Tube Robot Kinematics.,3,22,21,44
+17,251,128,114,Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints.,6,45,46,47,48,22,49
+18,141,211,199,Achieving Commutation Control of an MRI-Powered Robot Actuator.,4,45,22,50,51
+19,253,180,98,Development of a Meso-Scale SMA-Based Torsion Actuator for Image-Guided Procedures.,5,54,53,52,24,28
+20,128,177,211,The Input-to-State Stable (ISS) Approach for Stabilizing Haptic Interaction With Virtual Environments.,3,27,56,55
+21,128,177,211,Active Stiffness Tuning of a Spring-Based Continuum Robot for MRI-Guided Neurosurgery.,3,58,57,28
+22,128,177,211,New Actuation Mechanism for Actively Cooled SMA Springs in a Neurosurgical Robot.,3,58,57,28
+23,251,128,114,Toward the Development of a Flexible Mesoscale MRI-Compatible Neurosurgical Continuum Robot.,6,58,59,57,53,54,28
+24,179,222,105,On the Control and Properties of Supercoiled Polymer Artificial Muscles.,2,29,60
+25,190,186,218,Customizable Three-Dimensional-Printed Origami Soft Robotic Joint With Effective Behavior Shaping for Safe Interactions.,7,61,63,64,62,31,66,65
+26,141,211,199,Distributed Coverage Estimation and Control for Multirobot Persistent Tasks.,4,42,40,67,68
+27,141,211,199,Formation Control of Mobile Robots Using Multiple Aerial Cameras.,4,70,42,69,71
+28,141,211,199,On-Manifold Preintegration for Real-Time Visual-Inertial Odometry.,4,73,72,74,43
+29,204,235,197,Past Present and Future of Simultaneous Localization and Mapping - Toward the Robust-Perception Age.,8,77,43,74,75,78,76,80,79
+30,141,211,199,Planar Pose Graph Optimization - Duality Optimal Solutions and Verification.,4,82,73,43,81
+31,253,180,98,Unified Tracking and Shape Estimation for Concentric Tube Robots.,5,86,85,84,45,83
+32,141,211,199,Exploiting Nonslip Wall Contacts to Position Two Particles Using the Same Control Input.,4,87,51,89,88
+33,253,180,98,Steering a Swarm of Particles Using Global Inputs and Swarm Statistics.,5,90,92,51,87,91
+34,128,177,211,Adaptive Multirobot Formation Planning to Enclose and Track a Target With Motion and Visibility Constraints.,3,70,69,71
+35,128,177,211,Brunovsky's Linear Form of Incremental Structure From Motion.,3,71,94,93
+36,141,211,199,Visual Servoing Based on Shifted Moments.,4,96,71,95,93
+37,253,180,98,SVO - Semidirect Visual Odometry for Monocular and Multicamera Systems.,5,98,99,97,74,72
+38,251,128,114,Deep Drone Racing - From Simulation to Reality With Domain Randomization.,6,100,103,104,102,74,101
+39,253,180,98,PL-SLAM - A Stereo SLAM System Through the Combination of Points and Line Segments.,5,105,74,107,106,108
+40,141,211,199,Continuous-Time Visual-Inertial Odometry for Event Cameras.,4,74,110,109,111
+41,179,222,105,Multi-body Motion Estimation from Monocular Vehicle-Mounted Cameras.,2,112,74
+42,128,177,211,On the Importance of Uncertainty Representation in Active SLAM.,3,78,114,113
+43,253,180,98,Two-Stage Focused Inference for Resource-Constrained Minimal Collision Navigation.,5,117,80,115,118,116
+44,190,186,218,Visual Place Recognition - A Survey.,7,80,120,121,124,123,119,122
+45,128,177,211,A Direct Dense Visual Servoing Approach Using Photometric Moments.,3,125,93,126
+46,141,211,199,Robust Planar Odometry Based on Symmetric Range Flow and Multiscan Alignment.,4,129,108,128,127
+47,179,222,105,Fast Visual Odometry for 3-D Range Sensors.,2,127,108
+48,128,177,211,Real-World Reinforcement Learning via Multifidelity Simulators.,3,130,118,131
+49,141,211,199,Bayesian Nonparametric Reward Learning From Demonstration.,4,118,132,133,131
+50,179,222,105,Supervised and Unsupervised Linear Learning Techniques for Visual Place Recognition in Changing Environments.,2,119,124
+51,141,211,199,Visual Servoing With Photometric Gaussian Mixtures as Dense Features.,4,126,136,134,135
+52,128,177,211,Aural Servo - Sensor-Based Control From Robot Audition.,3,137,138,126
+53,128,177,211,Revisiting the Determination of the Singularity Cases in the Visual Servoing of Image Points Through the Concept of Hidden Robot.,3,140,126,139
+54,253,180,98,SLAP - Simultaneous Localization and Planning Under Uncertainty via Dynamic Replanning in Belief Space.,5,143,133,144,142,141
+55,128,177,211,The Hidden Robot - An Efficient Concept Contributing to the Analysis of the Controllability of Parallel Robots in Advanced Visual Servoing Techniques.,3,140,139,145

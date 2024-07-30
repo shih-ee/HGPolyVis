@@ -1,0 +1,39 @@
+Nary Relationship Data 2D
+Comma Delimiter
+Relationship Colors Saved
+##subset 36
+
+22,11
+0,Marco Carricato,17.2276036948444755,-19.5567588857311492
+1,Edoardo Id,16.5290276333256685,-19.2537913429125709
+2,Tobias Bruckmann,16.6895060116166043,-18.5432133181329988
+3,Yuanqing Wu 0001,16.6392190751628704,-20.3752246115963764
+4,Harald Lwe,17.1231864418957187,-20.1676793971699233
+5,Zexiang Li,17.4947395021704146,-20.5319415827411795
+6,Ghasem Abbasnejad,18.2644884067354027,-19.4790527860027005
+7,Marc Gouttefarde,16.1077334220739203,-17.4021737305934749
+8,Johann Lamaury,16.1397915217896575,-18.1716877484266881
+9,Christopher Reichert,16.7712171754033612,-17.8697545985900987
+10,Cheng Li 0002,16.9686103112902877,-20.9825808556832101
+11,Jonathan Eden,18.9689452295148016,-19.8788346377484935
+12,Darwin Lau,19.0929399466176299,-19.2055383989321697
+13,Jeremy Begey,16.8393711551608476,-16.9508407941656429
+14,Loc Cuvillon,16.6914861318461085,-16.3920174835806343
+15,Maximilien Lesellier,16.0807500128039749,-16.3655914431947025
+16,Jacques Gangloff,16.2700695856682636,-16.8515638799283636
+17,Jean-Francois Collard,15.3859594192239477,-17.0144774982580671
+18,Nicolas Riehl,15.4075166717305425,-17.7750932248289324
+19,Cdric Baradat,14.9560132870536862,-17.4084786255319557
+20,Denny Oetomo,19.6858986207074622,-19.6410867817160586
+21,Saman K. Halgamuge,19.8272879613402786,-18.9340513102250689
+0,128,177,211,Rest-to-Rest Trajectory Planning for Underactuated Cable-Driven Parallel Robots.,3,1,0,2
+1,179,222,105,Symmetric Subspace Motion Generators.,2,3,0
+2,141,211,199,Inversion Symmetry of the Euclidean Group - Theory and Application to Robot Kinematics.,4,3,4,5,0
+3,179,222,105,Direct Geometrico-static Problem of Underconstrained Cable-Driven Parallel Robots With $n$ Cables.,2,6,0
+4,141,211,199,A Versatile Tension Distribution Algorithm for n-DOF Parallel Robots Driven by n+2 Cables.,4,8,2,9,7
+5,141,211,199,POE-Based Robot Kinematic Calibration Using Axis Configuration Space and the Adjoint Error Model.,4,10,5,4,3
+6,128,177,211,Generalized Ray-Based Lattice Generation and Graph Representation of Wrench-Closure Workspace for Arbitrary Cable-Driven Robots.,3,11,12,6
+7,253,180,98,Dynamic Control of Parallel Robots Driven by Flexible Cables and Actuated by Position-Controlled Winches.,5,16,7,13,14,15
+8,141,211,199,Geometry Selection of a Redundantly Actuated Cable-Suspended Parallel Robot.,4,19,18,7,17
+9,128,177,211,Fluid Motion Planner for Nonholonomic 3-D Mobile Robots With Kinematic Constraints.,3,11,20,12
+10,128,177,211,Inverse Dynamics of Multilink Cable-Driven Manipulators With the Consideration of Joint Interaction Forces and Moments.,3,20,21,12

@@ -1,5 +1,0 @@
-The datasets in this directory are derived from the Visualization Publications Dataset (Vispubdata) dataset shared under the [Creative Commons Atrribution-NonCommercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/): https://sites.google.com/site/vispubdata/home.
-
-> P. Isenberg, F. Heimerl, S. Koch, T. Isenberg, P. Xu, C. D. Stolper, M. Sedlmair, J. Chen, T. Möller and J. Stasko. vispubdata.org: A metadata collection about IEEE visualization (VIS) publications. *IEEE transactions on visualization and computer graphics*, 23(9), 2199-2206, 2017. doi: [10.1109/TVCG.2016.2615308](https://doi.org/10.1109/TVCG.2016.2615308)
-
-The modified datasets here are redistributed under the [Creative Commons Atrribution-NonCommercial-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/). For re-use, please also attribute the original data source listed above.
