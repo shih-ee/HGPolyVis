@@ -4,7 +4,7 @@ HGPolyVis is a desktop application for visualizing hypergraph data using the pol
 
 > P. Oliver, E. Zhang and Y. Zhang. Scalable Hypergraph Visualization. *IEEE Transactions on Visualization and Computer Graphics*, 30(1):595-605, 2022. doi: 10.1109/TVCG.2023.3326599. arxiv: https://arxiv.org/abs/2308.05043.
 
-> P. Oliver, E. Zhang, and Y. Zhang. Structure-Aware Simplification for Hypergraph Visualization. Accepted. *To appear in IEEE Transactions on Visualization and Computer Graphics*. 2024. arxiv: https://arxiv.org/abs/2308.05043.
+> P. Oliver, E. Zhang, and Y. Zhang. Structure-Aware Simplification for Hypergraph Visualization. Accepted. *To appear in IEEE Transactions on Visualization and Computer Graphics*. 2024. arxiv: https://arxiv.org/abs/2407.19621.
 
 The executable `Deploy/HGPolyVis.exe` is built for Windows 11 and is available under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). HGPolyVis is not currently available for any other operating system. To run the application, download or clone this repository and run the executable. 
 
